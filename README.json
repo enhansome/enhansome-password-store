@@ -556,7 +556,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-09T08:48:02Z",
+            "last_commit": "2026-08-14T03:06:53Z",
             "owner": "mssun",
             "repo": "passforios",
             "stars": 1644
@@ -570,7 +570,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-09T08:48:02Z",
+            "last_commit": "2026-08-14T03:06:53Z",
             "owner": "mssun",
             "repo": "passforios",
             "stars": 1644
@@ -615,7 +615,7 @@
             "last_commit": "2026-07-27T19:15:58Z",
             "owner": "cortex",
             "repo": "ripasso",
-            "stars": 827
+            "stars": 828
           }
         },
         {
@@ -626,7 +626,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-13T17:41:10Z",
+            "last_commit": "2026-08-14T14:19:48Z",
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 429
@@ -654,7 +654,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T05:17:41Z",
+            "last_commit": "2026-08-14T21:01:06Z",
             "owner": "languitar",
             "repo": "pass-git-helper",
             "stars": 372
@@ -1032,7 +1032,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T11:58:18Z",
+            "last_commit": "2026-08-14T08:19:21Z",
             "owner": "parcel-pm",
             "repo": "parcel",
             "stars": 2
@@ -1083,7 +1083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T22:22:46.701Z",
+    "last_updated": "2026-08-14T21:54:37.163Z",
     "original_repository": "tijn/awesome-password-store",
     "original_repository_sha": "1396538184cc0734055bc2806505312f0b761792",
     "enhanced_repository": "enhansome/enhansome-password-store",
