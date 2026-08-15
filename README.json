@@ -629,7 +629,7 @@
             "last_commit": "2026-08-14T14:19:48Z",
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 429
+            "stars": 432
           }
         },
         {
@@ -797,7 +797,7 @@
             "last_commit": "2026-07-03T01:18:17Z",
             "owner": "grimsteel",
             "repo": "pass-secret-service",
-            "stars": 72
+            "stars": 74
           }
         },
         {
@@ -1083,7 +1083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:54:37.163Z",
+    "last_updated": "2026-08-15T21:52:57.765Z",
     "original_repository": "tijn/awesome-password-store",
     "original_repository_sha": "1396538184cc0734055bc2806505312f0b761792",
     "enhanced_repository": "enhansome/enhansome-password-store",
