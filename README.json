@@ -556,10 +556,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-14T03:06:53Z",
+            "last_commit": "2026-08-16T00:45:01Z",
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1644
+            "stars": 1643
           }
         },
         {
@@ -570,10 +570,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-14T03:06:53Z",
+            "last_commit": "2026-08-16T00:45:01Z",
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1644
+            "stars": 1643
           }
         },
         {
@@ -626,10 +626,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T14:19:48Z",
+            "last_commit": "2026-08-16T20:50:15Z",
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 432
+            "stars": 434
           }
         },
         {
@@ -671,7 +671,7 @@
             "last_commit": "2026-05-08T13:53:55Z",
             "owner": "timvisee",
             "repo": "prs",
-            "stars": 261
+            "stars": 262
           }
         },
         {
@@ -914,6 +914,20 @@
         },
         {
           "node_type": "item",
+          "title": "Identities: Modern password-store client made for GNOME.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T08:43:34Z",
+            "owner": "k8ieone",
+            "repo": "identities",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
           "title": "pass-ulauncher: Integration for Ulauncher",
           "description": ".",
           "children": [],
@@ -924,20 +938,6 @@
             "owner": "yannishuber",
             "repo": "pass-ulauncher",
             "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Identities: Modern password-store client made for GNOME.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-15T08:43:34Z",
-            "owner": "k8ieone",
-            "repo": "identities",
-            "stars": 14
           }
         },
         {
@@ -1083,7 +1083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:52:57.765Z",
+    "last_updated": "2026-08-16T21:52:13.320Z",
     "original_repository": "tijn/awesome-password-store",
     "original_repository_sha": "1396538184cc0734055bc2806505312f0b761792",
     "enhanced_repository": "enhansome/enhansome-password-store",
