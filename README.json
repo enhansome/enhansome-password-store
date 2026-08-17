@@ -559,7 +559,7 @@
             "last_commit": "2026-08-16T00:45:01Z",
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1643
+            "stars": 1644
           }
         },
         {
@@ -573,7 +573,7 @@
             "last_commit": "2026-08-16T00:45:01Z",
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1643
+            "stars": 1644
           }
         },
         {
@@ -626,10 +626,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-16T20:50:15Z",
+            "last_commit": "2026-08-17T16:48:43Z",
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 434
+            "stars": 436
           }
         },
         {
@@ -1083,7 +1083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:52:13.320Z",
+    "last_updated": "2026-08-17T21:55:34.010Z",
     "original_repository": "tijn/awesome-password-store",
     "original_repository_sha": "1396538184cc0734055bc2806505312f0b761792",
     "enhanced_repository": "enhansome/enhansome-password-store",
