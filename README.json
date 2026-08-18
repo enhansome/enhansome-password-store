@@ -371,7 +371,7 @@
             "last_commit": "2025-08-09T21:12:17Z",
             "owner": "pass-extension",
             "repo": "pass-otp",
-            "stars": 1486
+            "stars": 1487
           }
         },
         {
@@ -640,7 +640,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2024-04-18T19:01:26Z",
+            "last_commit": "2026-08-18T11:15:50Z",
             "owner": "geluk",
             "repo": "pass-winmenu",
             "stars": 420
@@ -654,7 +654,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T21:01:06Z",
+            "last_commit": "2026-08-18T02:09:42Z",
             "owner": "languitar",
             "repo": "pass-git-helper",
             "stars": 372
@@ -1032,7 +1032,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T08:19:21Z",
+            "last_commit": "2026-08-18T10:51:06Z",
             "owner": "parcel-pm",
             "repo": "parcel",
             "stars": 2
@@ -1083,7 +1083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:55:34.010Z",
+    "last_updated": "2026-08-18T21:53:53.726Z",
     "original_repository": "tijn/awesome-password-store",
     "original_repository_sha": "1396538184cc0734055bc2806505312f0b761792",
     "enhanced_repository": "enhansome/enhansome-password-store",
