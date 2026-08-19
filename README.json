@@ -1,552 +1,595 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pass-audit (by roddhjav",
+              "description": "): A pass extension for auditing your password repository. (There are two extensions with this name; this one checks Have I Been Pwned and estimates password strength using Dropbox' zxcvbn algorithm.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122757826,
+                "language": "Python",
+                "last_commit": "2025-05-14T15:35:49Z",
+                "owner": "roddhjav",
+                "repo": "pass-audit",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-pwned (by alzeih",
+              "description": "): Password-Store extension for Have I Been Pwned? Pwned Passwords v2 API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123358120,
+                "language": "Shell",
+                "last_commit": "2019-08-20T03:43:22Z",
+                "owner": "alzeih",
+                "repo": "pass-pwned",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-report: A pass extension that reports age and length of passwords.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107832109,
+                "language": "Shell",
+                "last_commit": "2018-04-01T14:48:05Z",
+                "owner": "Kdecherf",
+                "repo": "pass-report",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-audit (by benburwell",
+              "description": "): A pass extension for checking whether your passwords may be compromised. (There are two extensions with this name; this one checks Have I Been Pwned as well as a local wordlist file.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122702392,
+                "language": "Roff",
+                "last_commit": "2018-02-24T05:32:34Z",
+                "owner": "benburwell",
+                "repo": "pass-audit",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-pwned (by jamesridgway",
+              "description": "): Password-Store extension for Have I Been Pwned? Pwned Passwords v2 API or an offline password hash file of your choosing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123522799,
+                "language": "Shell",
+                "last_commit": "2019-01-20T09:37:40Z",
+                "owner": "jamesridgway",
+                "repo": "pass-pwned",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-age (by tijn",
+              "description": "): A pass extension to show you how long you are using a certain password. (There are two extensions with this name; this one shows the last time when the first line in a password file changed.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141817143,
+                "language": "Shell",
+                "last_commit": "2021-08-31T08:37:57Z",
+                "owner": "tijn",
+                "repo": "pass-age",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-age (by taylorskalyo",
+              "description": "): A simple pass extension for displaying password age. (There are two extensions with this name; this one shows the time of the last git commit.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149541565,
+                "language": "Shell",
+                "last_commit": "2018-09-20T02:46:24Z",
+                "owner": "taylorskalyo",
+                "repo": "pass-age",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Auditing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pass-clip: A pass extension that lets you quickly copy to clipboard passwords using fzf or rofi.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93593490,
+                "language": "Shell",
+                "last_commit": "2024-12-04T13:41:38Z",
+                "owner": "ibizaman",
+                "repo": "pass-clip",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-extension-wclip: a plugin to use wclip on Windows.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81690597,
+                "language": "Shell",
+                "last_commit": "2020-11-23T12:25:12Z",
+                "owner": "palortoff",
+                "repo": "pass-extension-wclip",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "select-pass-otp: type or copy passwords or OTPs from a menu selector in X11 or Wayland",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1123376949,
+                "language": "Shell",
+                "last_commit": "2025-12-28T03:22:19Z",
+                "owner": "Konfekt",
+                "repo": "select-pass-otp",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-sclip: A pass extension to copy to screen",
+              "description": "'s paste buffer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86702869,
+                "language": "Shell",
+                "last_commit": "2017-05-31T14:14:11Z",
+                "owner": "Boldewyn",
+                "repo": "pass-sclip",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clipboard"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pass-extension-tail: A pass extension to avoid printing the password to the console.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82421075,
+                "language": "Shell",
+                "last_commit": "2022-04-28T08:57:25Z",
+                "owner": "palortoff",
+                "repo": "pass-extension-tail",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-extension-meta: password-store extension to retrieve meta-data properties from password files.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155248419,
+                "language": "Shell",
+                "last_commit": "2021-12-29T01:35:43Z",
+                "owner": "rjekker",
+                "repo": "pass-extension-meta",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-extension-copyq: A pass extension that copies a stored password using copyq.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 131990830,
+                "language": "Shell",
+                "last_commit": "2022-12-11T19:18:50Z",
+                "owner": "vy",
+                "repo": "pass-extension-copyq",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-cl: password-store extension to copy metadata from multi-line entries.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148933816,
+                "language": "Shell",
+                "last_commit": "2026-04-29T17:52:20Z",
+                "owner": "elcorto",
+                "repo": "pass-cl",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-csv: generate a CSV file from specified key-value pairs in the metadata.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335063016,
+                "language": "Shell",
+                "last_commit": "2021-02-09T19:08:08Z",
+                "owner": "lahr",
+                "repo": "pass-csv",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Output"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pass-import: a generic importer tool from other password managers.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78456127,
+                "language": "Python",
+                "last_commit": "2026-06-07T16:21:48Z",
+                "owner": "roddhjav",
+                "repo": "pass-import",
+                "stars": 911
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-file (by lukrop",
+              "description": "): A pass extension for adding arbitrary files to the password store.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131222516,
+                "language": "Shell",
+                "last_commit": "2024-09-06T08:43:54Z",
+                "owner": "lukrop",
+                "repo": "pass-file",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-file (by dvogt23",
+              "description": "): A pass extension that allows to add files to password-store.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114303898,
+                "language": "Shell",
+                "last_commit": "2024-03-28T12:36:06Z",
+                "owner": "dvogt23",
+                "repo": "pass-file",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Import"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pass-genphrase: Passphrase generator extension for pass, the password manager.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89986173,
+                "language": "Shell",
+                "last_commit": "2021-08-12T16:23:45Z",
+                "owner": "congma",
+                "repo": "pass-genphrase",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-ssh: A pass extension that lets you quickly create ssh keypairs and output public keys using fzf or rofi.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95851970,
+                "language": "Shell",
+                "last_commit": "2021-12-19T04:37:07Z",
+                "owner": "ibizaman",
+                "repo": "pass-ssh",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-qr: A pass extension that lets you quickly generate a QR code for passwords using fzf or rofi.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136685262,
+                "language": "Shell",
+                "last_commit": "2022-06-08T11:33:38Z",
+                "owner": "codekoala",
+                "repo": "pass-qr",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-totp: TOTP code generator for pass.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86153806,
+                "language": "Go",
+                "last_commit": "2017-03-25T11:53:40Z",
+                "owner": "muteor",
+                "repo": "pass-totp",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pass-otp: support for one-time-password (OTP) tokens.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82002997,
+                "language": "Shell",
+                "last_commit": "2025-08-09T21:12:17Z",
+                "owner": "pass-extension",
+                "repo": "pass-otp",
+                "stars": 1488
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-tomb: helps you to keep the whole tree of password encrypted inside a tomb.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81016953,
+                "language": "Shell",
+                "last_commit": "2026-04-07T07:57:19Z",
+                "owner": "roddhjav",
+                "repo": "pass-tomb",
+                "stars": 436
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-update: an easy flow for updating passwords.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80303828,
+                "language": "Shell",
+                "last_commit": "2025-08-16T15:19:52Z",
+                "owner": "roddhjav",
+                "repo": "pass-update",
+                "stars": 324
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-keybase: A pass extension to re-encrypt and decrypt pass entries via keybase.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134016194,
+                "language": "Shell",
+                "last_commit": "2020-05-15T14:56:10Z",
+                "owner": "mbauhardt",
+                "repo": "pass-keybase",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-backup: makes making a time-stamped backup simple and easy.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180556718,
+                "language": "Shell",
+                "last_commit": "2021-10-12T10:19:05Z",
+                "owner": "8go",
+                "repo": "pass-backup",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-grave: helps you hide all meta-data by placing the whole tree of passwords inside an encrypted grave (like pass-tomb but simpler and more lightweight).",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180602337,
+                "language": "Shell",
+                "last_commit": "2021-09-11T10:53:56Z",
+                "owner": "8go",
+                "repo": "pass-grave",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-ln: A pass extension for creating symbolic links.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 464335905,
+                "language": "Shell",
+                "last_commit": "2025-11-22T02:16:50Z",
+                "owner": "radian-software",
+                "repo": "pass-ln",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-botp: A pass extension for managing TOTP Backup Codes.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99850391,
+                "language": "Shell",
+                "last_commit": "2017-08-10T15:32:03Z",
+                "owner": "msmol",
+                "repo": "pass-botp",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-mount: A pass extension for mounting encrypted filesystems.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124164441,
+                "language": "Shell",
+                "last_commit": "2023-07-19T12:02:38Z",
+                "owner": "HXR",
+                "repo": "pass-mount",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-index: Speed up content search",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 399568064,
+                "language": "Shell",
+                "last_commit": "2026-02-23T21:21:21Z",
+                "owner": "sboesebeck",
+                "repo": "pass-index",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-ssh: Automatically create an SSH session from a pass entry",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369009245,
+                "language": "Shell",
+                "last_commit": "2022-01-31T07:31:50Z",
+                "owner": "not-jan",
+                "repo": "pass-ssh",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-extension-inc: A unix pass extension for incremental search.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164387527,
+                "language": "Shell",
+                "last_commit": "2019-01-13T11:57:29Z",
+                "owner": "diginatu",
+                "repo": "pass-extension-inc",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pass-open-doc: Open a file from your Password Store via xdg",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131427675,
+                "language": "Shell",
+                "last_commit": "2022-04-15T20:24:30Z",
+                "owner": "bergercookie",
+                "repo": "pass-open-doc",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "All other extensions"
+        }
+      ],
       "title": "Extensions"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pass-audit (by roddhjav",
-          "description": "): A pass extension for auditing your password repository. (There are two extensions with this name; this one checks Have I Been Pwned and estimates password strength using Dropbox' zxcvbn algorithm.)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-14T15:35:49Z",
-            "owner": "roddhjav",
-            "repo": "pass-audit",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-pwned (by alzeih",
-          "description": "): Password-Store extension for Have I Been Pwned? Pwned Passwords v2 API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2019-08-20T03:43:22Z",
-            "owner": "alzeih",
-            "repo": "pass-pwned",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-report: A pass extension that reports age and length of passwords.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2018-04-01T14:48:05Z",
-            "owner": "Kdecherf",
-            "repo": "pass-report",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-audit (by benburwell",
-          "description": "): A pass extension for checking whether your passwords may be compromised. (There are two extensions with this name; this one checks Have I Been Pwned as well as a local wordlist file.)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Roff",
-            "last_commit": "2018-02-24T05:32:34Z",
-            "owner": "benburwell",
-            "repo": "pass-audit",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-pwned (by jamesridgway",
-          "description": "): Password-Store extension for Have I Been Pwned? Pwned Passwords v2 API or an offline password hash file of your choosing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2019-01-20T09:37:40Z",
-            "owner": "jamesridgway",
-            "repo": "pass-pwned",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-age (by tijn",
-          "description": "): A pass extension to show you how long you are using a certain password. (There are two extensions with this name; this one shows the last time when the first line in a password file changed.)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-08-31T08:37:57Z",
-            "owner": "tijn",
-            "repo": "pass-age",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-age (by taylorskalyo",
-          "description": "): A simple pass extension for displaying password age. (There are two extensions with this name; this one shows the time of the last git commit.)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2018-09-20T02:46:24Z",
-            "owner": "taylorskalyo",
-            "repo": "pass-age",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Auditing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pass-clip: A pass extension that lets you quickly copy to clipboard passwords using fzf or rofi.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-12-04T13:41:38Z",
-            "owner": "ibizaman",
-            "repo": "pass-clip",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-extension-wclip: a plugin to use wclip on Windows.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2020-11-23T12:25:12Z",
-            "owner": "palortoff",
-            "repo": "pass-extension-wclip",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "select-pass-otp: type or copy passwords or OTPs from a menu selector in X11 or Wayland",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-12-28T03:22:19Z",
-            "owner": "Konfekt",
-            "repo": "select-pass-otp",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-sclip: A pass extension to copy to screen",
-          "description": "'s paste buffer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2017-05-31T14:14:11Z",
-            "owner": "Boldewyn",
-            "repo": "pass-sclip",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Clipboard"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pass-extension-tail: A pass extension to avoid printing the password to the console.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-04-28T08:57:25Z",
-            "owner": "palortoff",
-            "repo": "pass-extension-tail",
-            "stars": 88
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-extension-meta: password-store extension to retrieve meta-data properties from password files.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-12-29T01:35:43Z",
-            "owner": "rjekker",
-            "repo": "pass-extension-meta",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-extension-copyq: A pass extension that copies a stored password using copyq.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2022-12-11T19:18:50Z",
-            "owner": "vy",
-            "repo": "pass-extension-copyq",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-cl: password-store extension to copy metadata from multi-line entries.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-04-29T17:52:20Z",
-            "owner": "elcorto",
-            "repo": "pass-cl",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-csv: generate a CSV file from specified key-value pairs in the metadata.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-02-09T19:08:08Z",
-            "owner": "lahr",
-            "repo": "pass-csv",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Output"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pass-import: a generic importer tool from other password managers.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-07T16:21:48Z",
-            "owner": "roddhjav",
-            "repo": "pass-import",
-            "stars": 911
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-file (by lukrop",
-          "description": "): A pass extension for adding arbitrary files to the password store.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-09-06T08:43:54Z",
-            "owner": "lukrop",
-            "repo": "pass-file",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-file (by dvogt23",
-          "description": "): A pass extension that allows to add files to password-store.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-03-28T12:36:06Z",
-            "owner": "dvogt23",
-            "repo": "pass-file",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Import"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pass-genphrase: Passphrase generator extension for pass, the password manager.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-08-12T16:23:45Z",
-            "owner": "congma",
-            "repo": "pass-genphrase",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-ssh: A pass extension that lets you quickly create ssh keypairs and output public keys using fzf or rofi.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-12-19T04:37:07Z",
-            "owner": "ibizaman",
-            "repo": "pass-ssh",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-qr: A pass extension that lets you quickly generate a QR code for passwords using fzf or rofi.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-06-08T11:33:38Z",
-            "owner": "codekoala",
-            "repo": "pass-qr",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-totp: TOTP code generator for pass.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2017-03-25T11:53:40Z",
-            "owner": "muteor",
-            "repo": "pass-totp",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Generators"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pass-otp: support for one-time-password (OTP) tokens.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-08-09T21:12:17Z",
-            "owner": "pass-extension",
-            "repo": "pass-otp",
-            "stars": 1487
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-tomb: helps you to keep the whole tree of password encrypted inside a tomb.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-04-07T07:57:19Z",
-            "owner": "roddhjav",
-            "repo": "pass-tomb",
-            "stars": 436
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-update: an easy flow for updating passwords.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-08-16T15:19:52Z",
-            "owner": "roddhjav",
-            "repo": "pass-update",
-            "stars": 324
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-keybase: A pass extension to re-encrypt and decrypt pass entries via keybase.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2020-05-15T14:56:10Z",
-            "owner": "mbauhardt",
-            "repo": "pass-keybase",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-backup: makes making a time-stamped backup simple and easy.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-10-12T10:19:05Z",
-            "owner": "8go",
-            "repo": "pass-backup",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-grave: helps you hide all meta-data by placing the whole tree of passwords inside an encrypted grave (like pass-tomb but simpler and more lightweight).",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-09-11T10:53:56Z",
-            "owner": "8go",
-            "repo": "pass-grave",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-ln: A pass extension for creating symbolic links.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-11-22T02:16:50Z",
-            "owner": "radian-software",
-            "repo": "pass-ln",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-botp: A pass extension for managing TOTP Backup Codes.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2017-08-10T15:32:03Z",
-            "owner": "msmol",
-            "repo": "pass-botp",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-mount: A pass extension for mounting encrypted filesystems.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-07-19T12:02:38Z",
-            "owner": "HXR",
-            "repo": "pass-mount",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-index: Speed up content search",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-02-23T21:21:21Z",
-            "owner": "sboesebeck",
-            "repo": "pass-index",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-ssh: Automatically create an SSH session from a pass entry",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-01-31T07:31:50Z",
-            "owner": "not-jan",
-            "repo": "pass-ssh",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-extension-inc: A unix pass extension for incremental search.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2019-01-13T11:57:29Z",
-            "owner": "diginatu",
-            "repo": "pass-extension-inc",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pass-open-doc: Open a file from your Password Store via xdg",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-04-15T20:24:30Z",
-            "owner": "bergercookie",
-            "repo": "pass-open-doc",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "All other extensions"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -555,8 +598,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79454886,
             "language": "Swift",
-            "last_commit": "2026-08-16T00:45:01Z",
+            "last_commit": "2026-08-19T00:20:04Z",
             "owner": "mssun",
             "repo": "passforios",
             "stars": 1644
@@ -569,8 +613,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79454886,
             "language": "Swift",
-            "last_commit": "2026-08-16T00:45:01Z",
+            "last_commit": "2026-08-19T00:20:04Z",
             "owner": "mssun",
             "repo": "passforios",
             "stars": 1644
@@ -583,6 +628,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13519594,
             "language": "JavaScript",
             "last_commit": "2026-05-20T17:30:08Z",
             "owner": "passff",
@@ -597,6 +643,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128682851,
             "language": "JavaScript",
             "last_commit": "2026-08-10T10:26:29Z",
             "owner": "browserpass",
@@ -611,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85009378,
             "language": "Rust",
             "last_commit": "2026-07-27T19:15:58Z",
             "owner": "cortex",
@@ -625,6 +673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 808556173,
             "language": "Kotlin",
             "last_commit": "2026-08-17T16:48:43Z",
             "owner": "agrahn",
@@ -639,6 +688,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52992791,
             "language": "C#",
             "last_commit": "2026-08-18T11:15:50Z",
             "owner": "geluk",
@@ -653,6 +703,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41371296,
             "language": "Python",
             "last_commit": "2026-08-18T02:09:42Z",
             "owner": "languitar",
@@ -667,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308097248,
             "language": "Rust",
             "last_commit": "2026-05-08T13:53:55Z",
             "owner": "timvisee",
@@ -681,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 47886700,
             "language": "Go",
             "last_commit": "2017-05-07T11:31:17Z",
             "owner": "cortex",
@@ -695,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37145034,
             "language": "Emacs Lisp",
             "last_commit": "2026-02-14T21:30:13Z",
             "owner": "NicolasPetton",
@@ -709,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 31474957,
             "language": "C#",
             "last_commit": "2022-06-22T16:38:04Z",
             "owner": "mbos",
@@ -723,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 222878362,
             "language": "Python",
             "last_commit": "2024-12-13T14:07:02Z",
             "owner": "bergercookie",
@@ -737,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 38569835,
             "language": "Python",
             "last_commit": "2025-10-25T17:03:40Z",
             "owner": "Kwpolska",
@@ -751,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160876082,
             "language": "Swift",
             "last_commit": "2021-10-26T11:18:09Z",
             "owner": "adur1990",
@@ -765,6 +823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84943602,
             "language": "Python",
             "last_commit": "2026-04-19T12:22:20Z",
             "owner": "jle64",
@@ -779,6 +838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49552157,
             "language": "Python",
             "last_commit": "2022-08-09T12:41:47Z",
             "owner": "CGenie",
@@ -793,11 +853,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 829612366,
             "language": "Rust",
             "last_commit": "2026-07-03T01:18:17Z",
             "owner": "grimsteel",
             "repo": "pass-secret-service",
-            "stars": 74
+            "stars": 75
           }
         },
         {
@@ -807,6 +868,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31859078,
             "language": "Python",
             "last_commit": "2019-01-28T19:38:04Z",
             "owner": "MatthewWest",
@@ -821,6 +883,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87919596,
             "language": "C++",
             "last_commit": "2024-04-24T10:19:44Z",
             "owner": "akermu",
@@ -835,6 +898,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153403560,
             "language": "Swift",
             "last_commit": "2019-02-23T23:01:34Z",
             "owner": "mnussbaum",
@@ -849,6 +913,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 843577492,
             "language": "Emacs Lisp",
             "last_commit": "2026-04-23T10:12:24Z",
             "owner": "rjekker",
@@ -863,6 +928,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156432593,
             "language": "Shell",
             "last_commit": "2025-05-21T20:37:12Z",
             "owner": "rafi",
@@ -877,11 +943,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 756775471,
             "language": "Shell",
             "last_commit": "2026-01-12T19:36:27Z",
             "owner": "Seme4eg",
             "repo": "rofi-pass-wayland",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -891,6 +958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90493553,
             "language": "Go",
             "last_commit": "2018-01-05T19:42:50Z",
             "owner": "leitzler",
@@ -905,6 +973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 659717878,
             "language": "JavaScript",
             "last_commit": "2026-08-03T07:55:47Z",
             "owner": "chrisgrieser",
@@ -919,6 +988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 743270111,
             "language": "Python",
             "last_commit": "2026-07-15T08:43:34Z",
             "owner": "k8ieone",
@@ -933,6 +1003,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160100825,
             "language": "Python",
             "last_commit": "2019-11-12T08:53:21Z",
             "owner": "yannishuber",
@@ -947,6 +1018,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1146959164,
             "language": "Go",
             "last_commit": "2026-07-15T23:11:06Z",
             "owner": "nikicat",
@@ -961,6 +1033,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102306034,
             "language": "Shell",
             "last_commit": "2022-01-16T21:42:52Z",
             "owner": "ninrod",
@@ -975,6 +1048,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 64424851,
             "language": "Python",
             "last_commit": "2024-11-23T02:42:39Z",
             "owner": "Pext",
@@ -989,6 +1063,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152862962,
             "language": "Shell",
             "last_commit": "2018-10-15T09:29:40Z",
             "owner": "TheAmazingPT",
@@ -1003,6 +1078,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147414637,
             "language": "Vim script",
             "last_commit": "2019-04-07T00:49:58Z",
             "owner": "fourjay",
@@ -1012,11 +1088,27 @@
         },
         {
           "node_type": "item",
+          "title": "parcel: Chrome",
+          "description": "& Firefox browser extension with no external dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 947881328,
+            "language": "JavaScript",
+            "last_commit": "2026-08-19T10:10:16Z",
+            "owner": "parcel-pm",
+            "repo": "parcel",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
           "title": "pidgin-zx2c4-pass: Plugin that allows to use zx2c4 pass to store passwords (for pidgin",
           "description": ").",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86572469,
             "language": "C",
             "last_commit": "2017-03-29T19:40:21Z",
             "owner": "denimor",
@@ -1026,25 +1118,12 @@
         },
         {
           "node_type": "item",
-          "title": "parcel: Chrome",
-          "description": "& Firefox browser extension with no external dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T10:51:06Z",
-            "owner": "parcel-pm",
-            "repo": "parcel",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
           "title": "ob-pass-menu: Openbox",
           "description": "pipe-menu script that generates an xml menu based on zx2c4-pass storage.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87533078,
             "language": "Shell",
             "last_commit": "2017-08-16T21:28:33Z",
             "owner": "denimor",
@@ -1059,32 +1138,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 406740674,
             "language": "Shell",
             "last_commit": "2025-05-26T11:37:42Z",
             "owner": "instantOS",
             "repo": "instantPASS",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "awscli-plugin-passtotp: AWS CLI plugin to directly talk to pass for OATH-TOTP keys.",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "pass-companion: Chrome/Chromium browser extension for pass.",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Interfaces"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:53:53.726Z",
+    "last_updated": "2026-08-19T12:44:50.771Z",
     "original_repository": "tijn/awesome-password-store",
+    "original_repository_id": 166590550,
     "original_repository_sha": "1396538184cc0734055bc2806505312f0b761792",
     "enhanced_repository": "enhansome/enhansome-password-store",
     "enhanced_repository_description": null,
