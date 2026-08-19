@@ -308,7 +308,7 @@
                 "last_commit": "2024-03-28T12:36:06Z",
                 "owner": "dvogt23",
                 "repo": "pass-file",
-                "stars": 17
+                "stars": 18
               }
             }
           ],
@@ -1151,7 +1151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:44:50.771Z",
+    "last_updated": "2026-08-19T21:56:11.217Z",
     "original_repository": "tijn/awesome-password-store",
     "original_repository_id": 166590550,
     "original_repository_sha": "1396538184cc0734055bc2806505312f0b761792",
