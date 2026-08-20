@@ -397,7 +397,7 @@
                 "last_commit": "2025-08-09T21:12:17Z",
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1488
+                "stars": 1483
               }
             },
             {
@@ -663,7 +663,7 @@
             "last_commit": "2026-07-27T19:15:58Z",
             "owner": "cortex",
             "repo": "ripasso",
-            "stars": 828
+            "stars": 826
           }
         },
         {
@@ -705,7 +705,7 @@
             "archived": false,
             "id": 41371296,
             "language": "Python",
-            "last_commit": "2026-08-18T02:09:42Z",
+            "last_commit": "2026-08-20T19:16:01Z",
             "owner": "languitar",
             "repo": "pass-git-helper",
             "stars": 372
@@ -1023,7 +1023,7 @@
             "last_commit": "2026-07-15T23:11:06Z",
             "owner": "nikicat",
             "repo": "gopass-secret-service",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -1095,7 +1095,7 @@
             "archived": false,
             "id": 947881328,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T10:10:16Z",
+            "last_commit": "2026-08-20T11:49:53Z",
             "owner": "parcel-pm",
             "repo": "parcel",
             "stars": 3
@@ -1151,7 +1151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:56:11.217Z",
+    "last_updated": "2026-08-20T21:57:27.731Z",
     "original_repository": "tijn/awesome-password-store",
     "original_repository_id": 166590550,
     "original_repository_sha": "1396538184cc0734055bc2806505312f0b761792",
