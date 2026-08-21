@@ -278,7 +278,7 @@
                 "last_commit": "2026-06-07T16:21:48Z",
                 "owner": "roddhjav",
                 "repo": "pass-import",
-                "stars": 911
+                "stars": 912
               }
             },
             {
@@ -648,7 +648,7 @@
             "last_commit": "2026-08-10T10:26:29Z",
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1010
+            "stars": 1011
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-08-17T16:48:43Z",
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 436
+            "stars": 437
           }
         },
         {
@@ -1095,7 +1095,7 @@
             "archived": false,
             "id": 947881328,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T11:49:53Z",
+            "last_commit": "2026-08-21T08:53:41Z",
             "owner": "parcel-pm",
             "repo": "parcel",
             "stars": 3
@@ -1151,7 +1151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:57:27.731Z",
+    "last_updated": "2026-08-21T21:56:00.472Z",
     "original_repository": "tijn/awesome-password-store",
     "original_repository_id": 166590550,
     "original_repository_sha": "1396538184cc0734055bc2806505312f0b761792",
