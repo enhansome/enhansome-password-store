@@ -397,7 +397,7 @@
                 "last_commit": "2025-08-09T21:12:17Z",
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1483
+                "stars": 1484
               }
             },
             {
@@ -678,7 +678,7 @@
             "last_commit": "2026-08-17T16:48:43Z",
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 437
+            "stars": 438
           }
         },
         {
@@ -705,7 +705,7 @@
             "archived": false,
             "id": 41371296,
             "language": "Python",
-            "last_commit": "2026-08-20T19:16:01Z",
+            "last_commit": "2026-08-22T07:05:05Z",
             "owner": "languitar",
             "repo": "pass-git-helper",
             "stars": 372
@@ -1058,6 +1058,21 @@
         },
         {
           "node_type": "item",
+          "title": "parcel: Chrome",
+          "description": "& Firefox browser extension with no external dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 947881328,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T08:53:41Z",
+            "owner": "parcel-pm",
+            "repo": "parcel",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
           "title": "passman: A dmenu",
           "description": "frontend for password-store.",
           "children": [],
@@ -1084,21 +1099,6 @@
             "owner": "fourjay",
             "repo": "vim-password-store",
             "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "parcel: Chrome",
-          "description": "& Firefox browser extension with no external dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 947881328,
-            "language": "JavaScript",
-            "last_commit": "2026-08-21T08:53:41Z",
-            "owner": "parcel-pm",
-            "repo": "parcel",
-            "stars": 3
           }
         },
         {
@@ -1151,7 +1151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:56:00.472Z",
+    "last_updated": "2026-08-22T21:53:58.906Z",
     "original_repository": "tijn/awesome-password-store",
     "original_repository_id": 166590550,
     "original_repository_sha": "1396538184cc0734055bc2806505312f0b761792",
