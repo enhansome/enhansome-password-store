@@ -603,7 +603,7 @@
             "last_commit": "2026-08-19T00:20:04Z",
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1644
+            "stars": 1645
           }
         },
         {
@@ -618,7 +618,7 @@
             "last_commit": "2026-08-19T00:20:04Z",
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1644
+            "stars": 1645
           }
         },
         {
@@ -675,7 +675,7 @@
             "archived": false,
             "id": 808556173,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T16:48:43Z",
+            "last_commit": "2026-08-23T12:53:45Z",
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 438
@@ -1065,10 +1065,10 @@
             "archived": false,
             "id": 947881328,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T08:53:41Z",
+            "last_commit": "2026-08-23T11:43:45Z",
             "owner": "parcel-pm",
             "repo": "parcel",
-            "stars": 6
+            "stars": 7
           }
         },
         {
@@ -1151,7 +1151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T21:53:58.906Z",
+    "last_updated": "2026-08-23T21:53:38.172Z",
     "original_repository": "tijn/awesome-password-store",
     "original_repository_id": 166590550,
     "original_repository_sha": "1396538184cc0734055bc2806505312f0b761792",
