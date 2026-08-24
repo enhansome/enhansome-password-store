@@ -7,8 +7,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "pass-audit (by roddhjav",
-              "description": "): A pass extension for auditing your password repository. (There are two extensions with this name; this one checks Have I Been Pwned and estimates password strength using Dropbox' zxcvbn algorithm.)",
+              "title": "pass-audit",
+              "description": "(by roddhjav): A pass extension for auditing your password repository. (There are two extensions with this name; this one checks Have I Been Pwned and estimates password strength using Dropbox' zxcvbn algorithm.)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -22,8 +22,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-pwned (by alzeih",
-              "description": "): Password-Store extension for Have I Been Pwned? Pwned Passwords v2 API.",
+              "title": "pass-pwned",
+              "description": "(by alzeih): Password-Store extension for Have I Been Pwned? Pwned Passwords v2 API.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -37,8 +37,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-report: A pass extension that reports age and length of passwords.",
-              "description": null,
+              "title": "pass-report",
+              "description": "A pass extension that reports age and length of passwords.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -52,8 +52,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-audit (by benburwell",
-              "description": "): A pass extension for checking whether your passwords may be compromised. (There are two extensions with this name; this one checks Have I Been Pwned as well as a local wordlist file.)",
+              "title": "pass-audit",
+              "description": "(by benburwell): A pass extension for checking whether your passwords may be compromised. (There are two extensions with this name; this one checks Have I Been Pwned as well as a local wordlist file.)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -67,8 +67,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-pwned (by jamesridgway",
-              "description": "): Password-Store extension for Have I Been Pwned? Pwned Passwords v2 API or an offline password hash file of your choosing.",
+              "title": "pass-pwned",
+              "description": "(by jamesridgway): Password-Store extension for Have I Been Pwned? Pwned Passwords v2 API or an offline password hash file of your choosing.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -82,8 +82,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-age (by tijn",
-              "description": "): A pass extension to show you how long you are using a certain password. (There are two extensions with this name; this one shows the last time when the first line in a password file changed.)",
+              "title": "pass-age",
+              "description": "(by tijn): A pass extension to show you how long you are using a certain password. (There are two extensions with this name; this one shows the last time when the first line in a password file changed.)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -97,8 +97,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-age (by taylorskalyo",
-              "description": "): A simple pass extension for displaying password age. (There are two extensions with this name; this one shows the time of the last git commit.)",
+              "title": "pass-age",
+              "description": "(by taylorskalyo): A simple pass extension for displaying password age. (There are two extensions with this name; this one shows the time of the last git commit.)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -119,8 +119,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "pass-clip: A pass extension that lets you quickly copy to clipboard passwords using fzf or rofi.",
-              "description": null,
+              "title": "pass-clip",
+              "description": "A pass extension that lets you quickly copy to clipboard passwords using fzf or rofi.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -134,8 +134,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-extension-wclip: a plugin to use wclip on Windows.",
-              "description": null,
+              "title": "pass-extension-wclip",
+              "description": "a plugin to use wclip on Windows.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -149,8 +149,8 @@
             },
             {
               "node_type": "item",
-              "title": "select-pass-otp: type or copy passwords or OTPs from a menu selector in X11 or Wayland",
-              "description": null,
+              "title": "select-pass-otp",
+              "description": "type or copy passwords or OTPs from a menu selector in X11 or Wayland",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -164,8 +164,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-sclip: A pass extension to copy to screen",
-              "description": "'s paste buffer.",
+              "title": "pass-sclip",
+              "description": "A pass extension to copy to screen's paste buffer.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -186,8 +186,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "pass-extension-tail: A pass extension to avoid printing the password to the console.",
-              "description": null,
+              "title": "pass-extension-tail",
+              "description": "A pass extension to avoid printing the password to the console.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -201,8 +201,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-extension-meta: password-store extension to retrieve meta-data properties from password files.",
-              "description": null,
+              "title": "pass-extension-meta",
+              "description": "password-store extension to retrieve meta-data properties from password files.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -216,8 +216,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-extension-copyq: A pass extension that copies a stored password using copyq.",
-              "description": null,
+              "title": "pass-extension-copyq",
+              "description": "A pass extension that copies a stored password using copyq.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -231,8 +231,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-cl: password-store extension to copy metadata from multi-line entries.",
-              "description": null,
+              "title": "pass-cl",
+              "description": "password-store extension to copy metadata from multi-line entries.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -246,8 +246,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-csv: generate a CSV file from specified key-value pairs in the metadata.",
-              "description": null,
+              "title": "pass-csv",
+              "description": "generate a CSV file from specified key-value pairs in the metadata.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -268,8 +268,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "pass-import: a generic importer tool from other password managers.",
-              "description": null,
+              "title": "pass-import",
+              "description": "a generic importer tool from other password managers.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -283,8 +283,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-file (by lukrop",
-              "description": "): A pass extension for adding arbitrary files to the password store.",
+              "title": "pass-file",
+              "description": "(by lukrop): A pass extension for adding arbitrary files to the password store.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -298,8 +298,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-file (by dvogt23",
-              "description": "): A pass extension that allows to add files to password-store.",
+              "title": "pass-file",
+              "description": "(by dvogt23): A pass extension that allows to add files to password-store.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -320,8 +320,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "pass-genphrase: Passphrase generator extension for pass, the password manager.",
-              "description": null,
+              "title": "pass-genphrase",
+              "description": "Passphrase generator extension for pass, the password manager.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -335,8 +335,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-ssh: A pass extension that lets you quickly create ssh keypairs and output public keys using fzf or rofi.",
-              "description": null,
+              "title": "pass-ssh",
+              "description": "A pass extension that lets you quickly create ssh keypairs and output public keys using fzf or rofi.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -350,8 +350,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-qr: A pass extension that lets you quickly generate a QR code for passwords using fzf or rofi.",
-              "description": null,
+              "title": "pass-qr",
+              "description": "A pass extension that lets you quickly generate a QR code for passwords using fzf or rofi.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -365,8 +365,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-totp: TOTP code generator for pass.",
-              "description": null,
+              "title": "pass-totp",
+              "description": "TOTP code generator for pass.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -387,8 +387,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "pass-otp: support for one-time-password (OTP) tokens.",
-              "description": null,
+              "title": "pass-otp",
+              "description": "support for one-time-password (OTP) tokens.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -402,8 +402,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-tomb: helps you to keep the whole tree of password encrypted inside a tomb.",
-              "description": null,
+              "title": "pass-tomb",
+              "description": "helps you to keep the whole tree of password encrypted inside a tomb.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -417,8 +417,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-update: an easy flow for updating passwords.",
-              "description": null,
+              "title": "pass-update",
+              "description": "an easy flow for updating passwords.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -432,8 +432,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-keybase: A pass extension to re-encrypt and decrypt pass entries via keybase.",
-              "description": null,
+              "title": "pass-keybase",
+              "description": "A pass extension to re-encrypt and decrypt pass entries via keybase.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -447,8 +447,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-backup: makes making a time-stamped backup simple and easy.",
-              "description": null,
+              "title": "pass-backup",
+              "description": "makes making a time-stamped backup simple and easy.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -462,8 +462,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-grave: helps you hide all meta-data by placing the whole tree of passwords inside an encrypted grave (like pass-tomb but simpler and more lightweight).",
-              "description": null,
+              "title": "pass-grave",
+              "description": "helps you hide all meta-data by placing the whole tree of passwords inside an encrypted grave (like pass-tomb but simpler and more lightweight).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -477,8 +477,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-ln: A pass extension for creating symbolic links.",
-              "description": null,
+              "title": "pass-ln",
+              "description": "A pass extension for creating symbolic links.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -492,8 +492,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-botp: A pass extension for managing TOTP Backup Codes.",
-              "description": null,
+              "title": "pass-botp",
+              "description": "A pass extension for managing TOTP Backup Codes.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -507,8 +507,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-mount: A pass extension for mounting encrypted filesystems.",
-              "description": null,
+              "title": "pass-mount",
+              "description": "A pass extension for mounting encrypted filesystems.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -522,8 +522,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-index: Speed up content search",
-              "description": null,
+              "title": "pass-index",
+              "description": "Speed up content search",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -537,8 +537,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-ssh: Automatically create an SSH session from a pass entry",
-              "description": null,
+              "title": "pass-ssh",
+              "description": "Automatically create an SSH session from a pass entry",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -552,8 +552,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-extension-inc: A unix pass extension for incremental search.",
-              "description": null,
+              "title": "pass-extension-inc",
+              "description": "A unix pass extension for incremental search.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -567,8 +567,8 @@
             },
             {
               "node_type": "item",
-              "title": "pass-open-doc: Open a file from your Password Store via xdg",
-              "description": null,
+              "title": "pass-open-doc",
+              "description": "Open a file from your Password Store via xdg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -593,8 +593,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Pass for iOS: An iOS client.",
-          "description": null,
+          "title": "Pass for iOS",
+          "description": "An iOS client.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -608,8 +608,8 @@
         },
         {
           "node_type": "item",
-          "title": "passforios: Pass for iOS - an iOS client compatible with Pass command line application.",
-          "description": null,
+          "title": "passforios",
+          "description": "Pass for iOS - an iOS client compatible with Pass command line application.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -623,8 +623,8 @@
         },
         {
           "node_type": "item",
-          "title": "passff: zx2c4 pass manager extension for Firefox, Chrome and Opera.",
-          "description": null,
+          "title": "passff",
+          "description": "zx2c4 pass manager extension for Firefox, Chrome and Opera.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -638,8 +638,8 @@
         },
         {
           "node_type": "item",
-          "title": "browserpass: Chrome & Firefox browser extension for pass.",
-          "description": null,
+          "title": "browserpass",
+          "description": "Chrome & Firefox browser extension for pass.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -653,8 +653,8 @@
         },
         {
           "node_type": "item",
-          "title": "ripasso: A simple password manager written in Rust.",
-          "description": null,
+          "title": "ripasso",
+          "description": "A simple password manager written in Rust.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -663,19 +663,19 @@
             "last_commit": "2026-07-27T19:15:58Z",
             "owner": "cortex",
             "repo": "ripasso",
-            "stars": 826
+            "stars": 827
           }
         },
         {
           "node_type": "item",
-          "title": "Android-Password-Store: Android application compatible with ZX2C4's Pass command line application.",
-          "description": null,
+          "title": "Android-Password-Store",
+          "description": "Android application compatible with ZX2C4's Pass command line application.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 808556173,
             "language": "Kotlin",
-            "last_commit": "2026-08-23T12:53:45Z",
+            "last_commit": "2026-08-24T09:47:14Z",
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 438
@@ -683,8 +683,8 @@
         },
         {
           "node_type": "item",
-          "title": "pass-winmenu: An easy-to-use Windows interface for pass",
-          "description": null,
+          "title": "pass-winmenu",
+          "description": "An easy-to-use Windows interface for pass",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -698,8 +698,8 @@
         },
         {
           "node_type": "item",
-          "title": "pass-git-helper: A git credential helper interfacing with pass.",
-          "description": null,
+          "title": "pass-git-helper",
+          "description": "A git credential helper interfacing with pass.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -713,8 +713,8 @@
         },
         {
           "node_type": "item",
-          "title": "prs: A multi-platform pass client in Rust supporting sync, TOTP, Tombs and more.",
-          "description": null,
+          "title": "prs",
+          "description": "A multi-platform pass client in Rust supporting sync, TOTP, Tombs and more.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -728,8 +728,8 @@
         },
         {
           "node_type": "item",
-          "title": "gopass: Simple UI for password-store. (UNMAINTANED)",
-          "description": null,
+          "title": "gopass",
+          "description": "Simple UI for password-store. (UNMAINTANED)",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -743,8 +743,8 @@
         },
         {
           "node_type": "item",
-          "title": "pass.el A major mode for password-store.",
-          "description": null,
+          "title": "pass.el",
+          "description": "A major mode for password-store.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -758,8 +758,8 @@
         },
         {
           "node_type": "item",
-          "title": "Pass4Win: An interface for Windows. (inactive)",
-          "description": null,
+          "title": "Pass4Win",
+          "description": "An interface for Windows. (inactive)",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -773,8 +773,8 @@
         },
         {
           "node_type": "item",
-          "title": "pass_rlded: Albert",
-          "description": "integration",
+          "title": "pass_rlded",
+          "description": "Albert integration",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -788,8 +788,8 @@
         },
         {
           "node_type": "item",
-          "title": "upass: Console UI for pass.",
-          "description": null,
+          "title": "upass",
+          "description": "Console UI for pass.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -803,8 +803,8 @@
         },
         {
           "node_type": "item",
-          "title": "Pass for macOS macOS wrapper and Safari extension.",
-          "description": null,
+          "title": "Pass for macOS",
+          "description": "macOS wrapper and Safari extension.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -818,8 +818,8 @@
         },
         {
           "node_type": "item",
-          "title": "gnome-pass-search-provider: Pass password manager search provider for gnome-shell.",
-          "description": null,
+          "title": "gnome-pass-search-provider",
+          "description": "Pass password manager search provider for gnome-shell.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -833,8 +833,8 @@
         },
         {
           "node_type": "item",
-          "title": "alfred-pass: Alfred integration",
-          "description": null,
+          "title": "alfred-pass",
+          "description": "Alfred integration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -848,8 +848,8 @@
         },
         {
           "node_type": "item",
-          "title": "pass-secret-service: Implementation of org.freedesktop.secrets (D-Bus Secret Service) using pass.",
-          "description": null,
+          "title": "pass-secret-service",
+          "description": "Implementation of org.freedesktop.secrets (D-Bus Secret Service) using pass.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -858,13 +858,13 @@
             "last_commit": "2026-07-03T01:18:17Z",
             "owner": "grimsteel",
             "repo": "pass-secret-service",
-            "stars": 75
+            "stars": 76
           }
         },
         {
           "node_type": "item",
-          "title": "pass-alfred: Alfred integration",
-          "description": null,
+          "title": "pass-alfred",
+          "description": "Alfred integration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -878,8 +878,8 @@
         },
         {
           "node_type": "item",
-          "title": "krunner-pass: Integrates krunner (KDE) with pass.",
-          "description": null,
+          "title": "krunner-pass",
+          "description": "Integrates krunner (KDE) with pass.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -893,8 +893,8 @@
         },
         {
           "node_type": "item",
-          "title": "PassHUD: A HUD-style interface for pass on macOS.",
-          "description": null,
+          "title": "PassHUD",
+          "description": "A HUD-style interface for pass on macOS.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -908,8 +908,8 @@
         },
         {
           "node_type": "item",
-          "title": "passwordstore-menu.el: Emacs password-store with friendly user interface.",
-          "description": null,
+          "title": "passwordstore-menu.el",
+          "description": "Emacs password-store with friendly user interface.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -923,8 +923,8 @@
         },
         {
           "node_type": "item",
-          "title": "tmux-pass: Quick password-store browser with preview using fzf in tmux.",
-          "description": null,
+          "title": "tmux-pass",
+          "description": "Quick password-store browser with preview using fzf in tmux.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -938,8 +938,8 @@
         },
         {
           "node_type": "item",
-          "title": "rofi-pass-wayland: Rofi frontent for ZX2C4 pass project (wayland only).",
-          "description": null,
+          "title": "rofi-pass-wayland",
+          "description": "Rofi frontent for ZX2C4 pass project (wayland only).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -953,8 +953,8 @@
         },
         {
           "node_type": "item",
-          "title": "gopass-tui: Terminal UI for pass/gopass.",
-          "description": null,
+          "title": "gopass-tui",
+          "description": "Terminal UI for pass/gopass.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -968,8 +968,8 @@
         },
         {
           "node_type": "item",
-          "title": "alfred-pass: Feature-rich Alfred integration.",
-          "description": null,
+          "title": "alfred-pass",
+          "description": "Feature-rich Alfred integration.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -983,8 +983,8 @@
         },
         {
           "node_type": "item",
-          "title": "Identities: Modern password-store client made for GNOME.",
-          "description": null,
+          "title": "Identities",
+          "description": "Modern password-store client made for GNOME.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -998,8 +998,8 @@
         },
         {
           "node_type": "item",
-          "title": "pass-ulauncher: Integration for Ulauncher",
-          "description": ".",
+          "title": "pass-ulauncher",
+          "description": "Integration for Ulauncher.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1013,8 +1013,8 @@
         },
         {
           "node_type": "item",
-          "title": "gopass-secret-service: D-Bus Secret Service",
-          "description": "provider backed by gopass, so desktop apps (browsers, Electron apps, NetworkManager) store their secrets in the password store.",
+          "title": "gopass-secret-service",
+          "description": "D-Bus Secret Service provider backed by gopass, so desktop apps (browsers, Electron apps, NetworkManager) store their secrets in the password store.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1028,8 +1028,8 @@
         },
         {
           "node_type": "item",
-          "title": "pass-zsh-completion: pass zsh completion plugin.",
-          "description": null,
+          "title": "pass-zsh-completion",
+          "description": "pass zsh completion plugin.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1043,8 +1043,8 @@
         },
         {
           "node_type": "item",
-          "title": "pext_module_pass: Password management module for Pext.",
-          "description": null,
+          "title": "pext_module_pass",
+          "description": "Password management module for Pext.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1058,14 +1058,14 @@
         },
         {
           "node_type": "item",
-          "title": "parcel: Chrome",
-          "description": "& Firefox browser extension with no external dependencies.",
+          "title": "parcel",
+          "description": "Chrome & Firefox browser extension with no external dependencies.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 947881328,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T11:43:45Z",
+            "last_commit": "2026-08-24T04:52:58Z",
             "owner": "parcel-pm",
             "repo": "parcel",
             "stars": 7
@@ -1073,8 +1073,8 @@
         },
         {
           "node_type": "item",
-          "title": "passman: A dmenu",
-          "description": "frontend for password-store.",
+          "title": "passman",
+          "description": "A dmenu frontend for password-store.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1088,8 +1088,8 @@
         },
         {
           "node_type": "item",
-          "title": "vim-password-store: Vim niceties for password store.",
-          "description": null,
+          "title": "vim-password-store",
+          "description": "Vim niceties for password store.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1103,8 +1103,8 @@
         },
         {
           "node_type": "item",
-          "title": "pidgin-zx2c4-pass: Plugin that allows to use zx2c4 pass to store passwords (for pidgin",
-          "description": ").",
+          "title": "pidgin-zx2c4-pass",
+          "description": "Plugin that allows to use zx2c4 pass to store passwords (for pidgin).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1118,8 +1118,8 @@
         },
         {
           "node_type": "item",
-          "title": "ob-pass-menu: Openbox",
-          "description": "pipe-menu script that generates an xml menu based on zx2c4-pass storage.",
+          "title": "ob-pass-menu",
+          "description": "Openbox pipe-menu script that generates an xml menu based on zx2c4-pass storage.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1133,8 +1133,8 @@
         },
         {
           "node_type": "item",
-          "title": "instantpass: an instantmenu",
-          "description": "frontend with support for pass-opt and pass-file.",
+          "title": "instantpass",
+          "description": "an instantmenu frontend with support for pass-opt and pass-file.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1148,10 +1148,52 @@
         }
       ],
       "title": "Interfaces"
+    },
+    {
+      "description": "These scripts are not extensions but they can be very useful nontheless.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "firefox_decrypt",
+          "description": "Full blown Firefox password interface which supports exporting to pass",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16000225,
+            "language": "Python",
+            "last_commit": "2026-02-23T11:27:05Z",
+            "owner": "unode",
+            "repo": "firefox_decrypt",
+            "stars": 2472
+          }
+        }
+      ],
+      "title": "Import scripts"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pass-export",
+          "description": "Exports data in csv format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 253111788,
+            "language": "Shell",
+            "last_commit": "2021-01-21T15:26:24Z",
+            "owner": "dvogt23",
+            "repo": "pass-export",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Export scripts"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:53:38.172Z",
+    "last_updated": "2026-08-24T14:31:29.073Z",
     "original_repository": "tijn/awesome-password-store",
     "original_repository_id": 166590550,
     "original_repository_sha": "1396538184cc0734055bc2806505312f0b761792",
