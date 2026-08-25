@@ -397,7 +397,7 @@
                 "last_commit": "2025-08-09T21:12:17Z",
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1484
+                "stars": 1485
               }
             },
             {
@@ -675,7 +675,7 @@
             "archived": false,
             "id": 808556173,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T09:47:14Z",
+            "last_commit": "2026-08-25T20:50:43Z",
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 438
@@ -693,7 +693,7 @@
             "last_commit": "2026-08-18T11:15:50Z",
             "owner": "geluk",
             "repo": "pass-winmenu",
-            "stars": 420
+            "stars": 422
           }
         },
         {
@@ -858,7 +858,7 @@
             "last_commit": "2026-07-03T01:18:17Z",
             "owner": "grimsteel",
             "repo": "pass-secret-service",
-            "stars": 76
+            "stars": 77
           }
         },
         {
@@ -1161,7 +1161,7 @@
             "archived": false,
             "id": 16000225,
             "language": "Python",
-            "last_commit": "2026-02-23T11:27:05Z",
+            "last_commit": "2026-08-25T09:40:10Z",
             "owner": "unode",
             "repo": "firefox_decrypt",
             "stars": 2472
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:20:58.923Z",
+    "last_updated": "2026-08-25T21:57:03.221Z",
     "original_repository": "tijn/awesome-password-store",
     "original_repository_id": 166590550,
     "original_repository_sha": "1396538184cc0734055bc2806505312f0b761792",
