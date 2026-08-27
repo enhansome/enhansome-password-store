@@ -648,7 +648,7 @@
             "last_commit": "2026-08-10T10:26:29Z",
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1011
+            "stars": 1012
           }
         },
         {
@@ -675,7 +675,7 @@
             "archived": false,
             "id": 808556173,
             "language": "Kotlin",
-            "last_commit": "2026-08-26T23:33:12Z",
+            "last_commit": "2026-08-27T11:13:27Z",
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 438
@@ -1208,9 +1208,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T01:01:58.331Z",
-    "original_repository": "tijn/awesome-password-store",
-    "original_repository_id": 166590550,
+    "last_updated": "2026-08-27T11:54:54.826Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 166590550,
+      "language": null,
+      "last_commit": "2026-08-26T20:12:51Z",
+      "owner": "tijn",
+      "repo": "awesome-password-store",
+      "stars": 310
+    },
     "original_repository_sha": "93b1327b1f43df31ba47259ba0de7634078058a7",
     "enhanced_repository": "enhansome/enhansome-password-store",
     "enhanced_repository_description": null,
