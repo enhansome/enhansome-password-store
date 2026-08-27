@@ -37,7 +37,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[select-pass-otp](https://github.com/Konfekt/select-pass-otp) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2025-12-28**: type or copy passwords or OTPs from a menu selector in X11 or Wayland
 * **[pass-sclip](https://github.com/Boldewyn/pass-sclip) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2017-05-31**: A pass extension to copy to [screen](https://www.gnu.org/software/screen/)'s paste buffer.
 * **[pass-extension-pclip](https://gitlab.com/lbischof/pass-extension-pclip)**: Copies meta data into primary clipboard.
-* **[pass-tessen](https://sr.ht/ayushnix/pass-tessen)**: fuzzy data selection and copy-paste from password store
+* **[pass-tessen](https://git.sr.ht/~ayushnix/pass-tessen)**: fuzzy data selection and copy-paste from password store
 
 ### Output
 
@@ -84,12 +84,12 @@ Additions and improvements are welcome! Please make pull-requests.
 
 * **[Pass for iOS](https://github.com/mssun/passforios) ⭐ 1,645 | 🐛 175 | 🌐 Swift | 📅 2026-08-19**: An iOS client.
 * **[passforios](https://github.com/mssun/passforios) ⭐ 1,645 | 🐛 175 | 🌐 Swift | 📅 2026-08-19**: Pass for iOS - an iOS client compatible with Pass command line application.
-* **[passff](https://github.com/passff/passff) ⭐ 1,291 | 🐛 14 | 🌐 JavaScript | 📅 2026-05-20**: zx2c4 pass manager extension for Firefox, Chrome and Opera.
+* **[passff](https://github.com/passff/passff) ⭐ 1,291 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-26**: zx2c4 pass manager extension for Firefox, Chrome and Opera.
 * **[browserpass](https://github.com/browserpass/browserpass-extension) ⭐ 1,011 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-10**: Chrome & Firefox browser extension for pass.
 * **[ripasso](https://github.com/cortex/ripasso) ⭐ 827 | 🐛 31 | 🌐 Rust | 📅 2026-07-27**: A simple password manager written in Rust.
-* **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store) ⭐ 438 | 🐛 29 | 🌐 Kotlin | 📅 2026-08-25**: Android application compatible with ZX2C4's Pass command line application.
+* **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store) ⭐ 438 | 🐛 31 | 🌐 Kotlin | 📅 2026-08-26**: Android application compatible with ZX2C4's Pass command line application.
 * **[pass-winmenu](https://github.com/geluk/pass-winmenu) ⭐ 422 | 🐛 14 | 🌐 C# | 📅 2026-08-18**: An easy-to-use Windows interface for pass
-* **[pass-git-helper](https://github.com/languitar/pass-git-helper) ⭐ 372 | 🐛 1 | 🌐 Python | 📅 2026-08-22**: A git credential helper interfacing with pass.
+* **[pass-git-helper](https://github.com/languitar/pass-git-helper) ⭐ 372 | 🐛 1 | 🌐 Python | 📅 2026-08-26**: A git credential helper interfacing with pass.
 * **[prs](https://github.com/timvisee/prs) ⭐ 262 | 🐛 14 | 🌐 Rust | 📅 2026-05-08**: A multi-platform pass client in Rust supporting sync, TOTP, Tombs and more.
 * **[gopass](https://github.com/cortex/gopass) ⚠️ Archived**: Simple UI for password-store. (UNMAINTANED)
 * **[pass.el](https://github.com/NicolasPetton/pass) ⭐ 198 | 🐛 8 | 🌐 Emacs Lisp | 📅 2026-02-14** A major mode for password-store.
@@ -116,6 +116,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[parcel](https://github.com/parcel-pm/parcel) ⭐ 7 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-24**: [Chrome](https://chromewebstore.google.com/detail/parcel/ciifpadakeohfnnneflckhojbldkkllp) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/parcel-pm/) browser extension with no external dependencies.
 * **[passman](https://github.com/TheAmazingPT/passman) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2018-10-15**: A [dmenu](https://tools.suckless.org/dmenu/) frontend for password-store.
 * **[vim-password-store](https://github.com/fourjay/vim-password-store) ⭐ 5 | 🐛 1 | 🌐 Vim script | 📅 2019-04-07**: Vim niceties for password store.
+* **[NativePass](https://github.com/li-nd/NativePass) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2026-08-24**: Native SwiftUI GUI for the Unix password manager pass on macOS.
 * **[pidgin-zx2c4-pass](https://github.com/denimor/pidgin-zx2c4-pass) ⭐ 3 | 🐛 0 | 🌐 C | 📅 2017-03-29**: Plugin that allows to use zx2c4 pass to store passwords (for [pidgin](https://pidgin.im/)).
 * **[ob-pass-menu](https://github.com/denimor/ob-pass-menu) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2017-08-16**: [Openbox](http://openbox.org/wiki/Main_Page) pipe-menu script that generates an xml menu based on zx2c4-pass storage.
 * **[instantpass](https://github.com/instantos/instantpass) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2025-05-26**: an [instantmenu](https://github.com/instantOS/instantMENU) ⭐ 20 | 🐛 5 | 🌐 Rust | 📅 2026-08-25 frontend with support for pass-opt and pass-file.
@@ -131,14 +132,14 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[passwordstore](https://docs.ansible.com/ansible/latest/plugins/lookup/passwordstore.html)**: Ansible lookup plugin to manage passwords with password-store.
 * **[qtpass](https://qtpass.org/)**: QtPass is a multi-platform GUI.
 * **[rofi-pass](https://git.sr.ht/~mcepl/rofi-pass)**: A bash script to handle Simple Password Store in a convenient way using rofi.
-* **[tessen](https://sr.ht/~ayushnix/tessen)**: an interactive menu to autotype and copy pass and gopass data.
+* **[tessen](https://git.sr.ht/~ayushnix/tessen)**: an interactive menu to autotype and copy pass and gopass data.
 * **[XMonad.Prompt.Pass](https://hackage.haskell.org/package/xmonad-contrib-0.13/docs/XMonad-Prompt-Pass.html)**: This module provides 3 XMonad.Prompt to ease passwords manipulation.
 
 ## Import scripts
 
 These scripts are not extensions but they can be very useful nontheless.
 
-* **[firefox\_decrypt](https://github.com/Unode/firefox_decrypt) ⭐ 2,472 | 🐛 3 | 🌐 Python | 📅 2026-08-25**: Full blown Firefox password interface which supports exporting to pass
+* **[firefox\_decrypt](https://github.com/Unode/firefox_decrypt) ⭐ 2,474 | 🐛 1 | 🌐 Python | 📅 2026-08-25**: Full blown Firefox password interface which supports exporting to pass
 * **[1password2pass.rb](https://git.zx2c4.com/password-store/tree/contrib/importers/1password2pass.rb)**: Import 1Password txt or 1pif data
 * **[fpm2pass.pl:](https://git.zx2c4.com/password-store/tree/contrib/importers/fpm2pass.pl)**: Import Figaro's Password Manager XML data
 * **[gorilla2pass.rb](https://git.zx2c4.com/password-store/tree/contrib/importers/gorilla2pass.rb)**: Import Password Gorilla data
@@ -160,4 +161,4 @@ These scripts are not extensions but they can be very useful nontheless.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
