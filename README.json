@@ -18,7 +18,8 @@
                 "owner": "roddhjav",
                 "repo": "pass-audit",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "alzeih",
                 "repo": "pass-pwned",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "Kdecherf",
                 "repo": "pass-report",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "benburwell",
                 "repo": "pass-audit",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "jamesridgway",
                 "repo": "pass-pwned",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "tijn",
                 "repo": "pass-age",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "taylorskalyo",
                 "repo": "pass-age",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             }
           ],
           "description": null,
@@ -130,7 +137,8 @@
                 "owner": "ibizaman",
                 "repo": "pass-clip",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "palortoff",
                 "repo": "pass-extension-wclip",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "Konfekt",
                 "repo": "select-pass-otp",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "Boldewyn",
                 "repo": "pass-sclip",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             }
           ],
           "description": null,
@@ -197,7 +208,8 @@
                 "owner": "palortoff",
                 "repo": "pass-extension-tail",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "rjekker",
                 "repo": "pass-extension-meta",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "vy",
                 "repo": "pass-extension-copyq",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "elcorto",
                 "repo": "pass-cl",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "lahr",
                 "repo": "pass-csv",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             }
           ],
           "description": null,
@@ -279,7 +295,8 @@
                 "owner": "roddhjav",
                 "repo": "pass-import",
                 "stars": 912
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "lukrop",
                 "repo": "pass-file",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -309,7 +327,8 @@
                 "owner": "dvogt23",
                 "repo": "pass-file",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             }
           ],
           "description": null,
@@ -331,7 +350,8 @@
                 "owner": "congma",
                 "repo": "pass-genphrase",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -346,7 +366,8 @@
                 "owner": "ibizaman",
                 "repo": "pass-ssh",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -361,7 +382,8 @@
                 "owner": "codekoala",
                 "repo": "pass-qr",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -376,7 +398,8 @@
                 "owner": "muteor",
                 "repo": "pass-totp",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             }
           ],
           "description": null,
@@ -398,7 +421,8 @@
                 "owner": "pass-extension",
                 "repo": "pass-otp",
                 "stars": 1485
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -413,7 +437,8 @@
                 "owner": "roddhjav",
                 "repo": "pass-tomb",
                 "stars": 436
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -428,7 +453,8 @@
                 "owner": "roddhjav",
                 "repo": "pass-update",
                 "stars": 324
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -443,7 +469,8 @@
                 "owner": "mbauhardt",
                 "repo": "pass-keybase",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -458,7 +485,8 @@
                 "owner": "8go",
                 "repo": "pass-backup",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -473,7 +501,8 @@
                 "owner": "8go",
                 "repo": "pass-grave",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -488,7 +517,8 @@
                 "owner": "radian-software",
                 "repo": "pass-ln",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -503,7 +533,8 @@
                 "owner": "msmol",
                 "repo": "pass-botp",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -518,7 +549,8 @@
                 "owner": "HXR",
                 "repo": "pass-mount",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -533,7 +565,8 @@
                 "owner": "sboesebeck",
                 "repo": "pass-index",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -548,7 +581,8 @@
                 "owner": "not-jan",
                 "repo": "pass-ssh",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -563,7 +597,8 @@
                 "owner": "diginatu",
                 "repo": "pass-extension-inc",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             },
             {
               "node_type": "item",
@@ -578,7 +613,8 @@
                 "owner": "bergercookie",
                 "repo": "pass-open-doc",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T05:36:01.093Z"
             }
           ],
           "description": null,
@@ -604,7 +640,8 @@
             "owner": "mssun",
             "repo": "passforios",
             "stars": 1645
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -619,7 +656,8 @@
             "owner": "mssun",
             "repo": "passforios",
             "stars": 1645
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -634,7 +672,8 @@
             "owner": "passff",
             "repo": "passff",
             "stars": 1291
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -649,7 +688,8 @@
             "owner": "browserpass",
             "repo": "browserpass-extension",
             "stars": 1012
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -664,7 +704,8 @@
             "owner": "cortex",
             "repo": "ripasso",
             "stars": 827
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -675,11 +716,12 @@
             "archived": false,
             "id": 808556173,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T11:13:27Z",
+            "last_commit": "2026-08-28T01:39:02Z",
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 438
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -694,7 +736,8 @@
             "owner": "geluk",
             "repo": "pass-winmenu",
             "stars": 422
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -705,11 +748,12 @@
             "archived": false,
             "id": 41371296,
             "language": "Python",
-            "last_commit": "2026-08-26T00:13:11Z",
+            "last_commit": "2026-08-27T21:45:04Z",
             "owner": "languitar",
             "repo": "pass-git-helper",
             "stars": 372
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -724,7 +768,8 @@
             "owner": "timvisee",
             "repo": "prs",
             "stars": 262
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -739,7 +784,8 @@
             "owner": "cortex",
             "repo": "gopass",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -754,7 +800,8 @@
             "owner": "NicolasPetton",
             "repo": "pass",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -769,7 +816,8 @@
             "owner": "mbos",
             "repo": "Pass4Win",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -784,7 +832,8 @@
             "owner": "bergercookie",
             "repo": "awesome-albert-plugins",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -799,7 +848,8 @@
             "owner": "Kwpolska",
             "repo": "upass",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -814,7 +864,8 @@
             "owner": "adur1990",
             "repo": "Pass-for-macOS",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -829,7 +880,8 @@
             "owner": "jle64",
             "repo": "gnome-pass-search-provider",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -844,7 +896,8 @@
             "owner": "CGenie",
             "repo": "alfred-pass",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -859,7 +912,8 @@
             "owner": "grimsteel",
             "repo": "pass-secret-service",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -874,7 +928,8 @@
             "owner": "MatthewWest",
             "repo": "pass-alfred",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -889,7 +944,8 @@
             "owner": "akermu",
             "repo": "krunner-pass",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -904,7 +960,8 @@
             "owner": "mnussbaum",
             "repo": "PassHUD",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -919,7 +976,8 @@
             "owner": "rjekker",
             "repo": "password-store-menu",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -934,7 +992,8 @@
             "owner": "rafi",
             "repo": "tmux-pass",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -949,7 +1008,8 @@
             "owner": "Seme4eg",
             "repo": "rofi-pass-wayland",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -964,7 +1024,8 @@
             "owner": "leitzler",
             "repo": "gopass-tui",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1040,8 @@
             "owner": "chrisgrieser",
             "repo": "alfred-pass",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -994,7 +1056,8 @@
             "owner": "k8ieone",
             "repo": "identities",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -1009,7 +1072,8 @@
             "owner": "yannishuber",
             "repo": "pass-ulauncher",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -1024,7 +1088,8 @@
             "owner": "nikicat",
             "repo": "gopass-secret-service",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -1039,7 +1104,8 @@
             "owner": "ninrod",
             "repo": "pass-zsh-completion",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -1054,7 +1120,8 @@
             "owner": "Pext",
             "repo": "pext_module_pass",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -1065,11 +1132,12 @@
             "archived": false,
             "id": 947881328,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T04:52:58Z",
+            "last_commit": "2026-08-27T13:57:58Z",
             "owner": "parcel-pm",
             "repo": "parcel",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -1084,7 +1152,8 @@
             "owner": "TheAmazingPT",
             "repo": "passman",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -1099,7 +1168,8 @@
             "owner": "fourjay",
             "repo": "vim-password-store",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1184,8 @@
             "owner": "li-nd",
             "repo": "NativePass",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -1129,7 +1200,8 @@
             "owner": "denimor",
             "repo": "pidgin-zx2c4-pass",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -1144,7 +1216,8 @@
             "owner": "denimor",
             "repo": "ob-pass-menu",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         },
         {
           "node_type": "item",
@@ -1159,7 +1232,8 @@
             "owner": "instantOS",
             "repo": "instantPASS",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         }
       ],
       "title": "Interfaces"
@@ -1179,8 +1253,9 @@
             "last_commit": "2026-08-25T09:40:10Z",
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2474
-          }
+            "stars": 2475
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         }
       ],
       "title": "Import scripts"
@@ -1201,14 +1276,15 @@
             "owner": "dvogt23",
             "repo": "pass-export",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
         }
       ],
       "title": "Export scripts"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:54:54.826Z",
+    "last_updated": "2026-08-28T05:36:01.093Z",
     "original_repository_info": {
       "archived": false,
       "id": 166590550,
