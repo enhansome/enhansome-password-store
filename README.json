@@ -420,7 +420,7 @@
                 "last_commit": "2025-08-09T21:12:17Z",
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1485
+                "stars": 1486
               },
               "first_seen": "2026-08-28T05:36:01.093Z"
             },
@@ -716,7 +716,7 @@
             "archived": false,
             "id": 808556173,
             "language": "Kotlin",
-            "last_commit": "2026-08-28T01:39:02Z",
+            "last_commit": "2026-08-29T02:49:20Z",
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 438
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:36:01.093Z",
+    "last_updated": "2026-08-29T03:21:29.310Z",
     "original_repository_info": {
       "archived": false,
       "id": 166590550,
