@@ -425,7 +425,7 @@
                 "open_issues": 21,
                 "owner": "roddhjav",
                 "repo": "pass-import",
-                "stars": 912,
+                "stars": 913,
                 "topics": [
                   "import",
                   "importer",
@@ -1091,7 +1091,7 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T02:49:20Z",
+            "last_commit": "2026-08-29T09:02:38Z",
             "open_issues": 30,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
@@ -1622,7 +1622,7 @@
             "open_issues": 23,
             "owner": "k8ieone",
             "repo": "identities",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1834,7 +1834,7 @@
             "open_issues": 7,
             "owner": "li-nd",
             "repo": "NativePass",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "gpg",
               "macos",
@@ -1940,7 +1940,7 @@
             "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2475,
+            "stars": 2477,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1992,7 +1992,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:47:16.091Z",
+    "last_updated": "2026-08-29T23:34:38.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
