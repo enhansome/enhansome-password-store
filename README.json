@@ -326,7 +326,7 @@
                 "open_issues": 1,
                 "owner": "rjekker",
                 "repo": "pass-extension-meta",
-                "stars": 16,
+                "stars": 17,
                 "topics": [
                   "metadata",
                   "password-store"
@@ -425,7 +425,7 @@
                 "open_issues": 21,
                 "owner": "roddhjav",
                 "repo": "pass-import",
-                "stars": 913,
+                "stars": 914,
                 "topics": [
                   "import",
                   "importer",
@@ -633,7 +633,7 @@
                 "open_issues": 73,
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1486,
+                "stars": 1487,
                 "topics": [
                   "otpauth",
                   "password-store"
@@ -1092,7 +1092,7 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-08-29T09:02:38Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 438,
@@ -1754,11 +1754,40 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2026-08-27T13:57:58Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "parcel-pm",
             "repo": "parcel",
             "stars": 7,
             "topics": []
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
+        },
+        {
+          "node_type": "item",
+          "title": "NativePass",
+          "description": "Native SwiftUI GUI for the Unix password manager pass on macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Native macOS client for the Unix password manager pass",
+            "homepage": "https://np.developer.pm",
+            "id": 1343922729,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-08-30T20:26:24Z",
+            "open_issues": 7,
+            "owner": "li-nd",
+            "repo": "NativePass",
+            "stars": 5,
+            "topics": [
+              "gpg",
+              "macos",
+              "password",
+              "password-manager",
+              "swift",
+              "swiftui",
+              "totp"
+            ]
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
         },
@@ -1814,35 +1843,6 @@
               "pass",
               "password-store",
               "vim"
-            ]
-          },
-          "first_seen": "2026-08-28T05:36:01.093Z"
-        },
-        {
-          "node_type": "item",
-          "title": "NativePass",
-          "description": "Native SwiftUI GUI for the Unix password manager pass on macOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Native macOS client for the Unix password manager pass",
-            "homepage": "https://np.developer.pm",
-            "id": 1343922729,
-            "language": "Swift",
-            "license": "MIT",
-            "last_commit": "2026-08-24T14:51:03Z",
-            "open_issues": 7,
-            "owner": "li-nd",
-            "repo": "NativePass",
-            "stars": 4,
-            "topics": [
-              "gpg",
-              "macos",
-              "password",
-              "password-manager",
-              "swift",
-              "swiftui",
-              "totp"
             ]
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1940,7 +1940,7 @@
             "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2477,
+            "stars": 2478,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1992,7 +1992,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:34:38.997Z",
+    "last_updated": "2026-08-30T23:48:16.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
