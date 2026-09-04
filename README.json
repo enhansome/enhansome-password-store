@@ -425,7 +425,7 @@
                 "open_issues": 21,
                 "owner": "roddhjav",
                 "repo": "pass-import",
-                "stars": 916,
+                "stars": 915,
                 "topics": [
                   "import",
                   "importer",
@@ -1091,8 +1091,8 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T12:07:34Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-04T22:03:30Z",
+            "open_issues": 27,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 440,
@@ -1149,7 +1149,7 @@
             "id": 41371296,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-03T00:57:12Z",
+            "last_commit": "2026-09-04T00:15:33Z",
             "open_issues": 3,
             "owner": "languitar",
             "repo": "pass-git-helper",
@@ -1753,8 +1753,8 @@
             "id": 947881328,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-03T06:23:43Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-04T15:28:36Z",
+            "open_issues": 7,
             "owner": "parcel-pm",
             "repo": "parcel",
             "stars": 7,
@@ -1992,7 +1992,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:31:45.139Z",
+    "last_updated": "2026-09-04T23:16:00.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
