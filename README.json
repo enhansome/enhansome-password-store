@@ -633,7 +633,7 @@
                 "open_issues": 73,
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1492,
+                "stars": 1494,
                 "topics": [
                   "otpauth",
                   "password-store"
@@ -1091,7 +1091,7 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T22:03:30Z",
+            "last_commit": "2026-09-05T16:53:54Z",
             "open_issues": 27,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
@@ -1121,7 +1121,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-08-18T11:15:50Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "geluk",
             "repo": "pass-winmenu",
             "stars": 422,
@@ -1401,7 +1401,7 @@
             "open_issues": 6,
             "owner": "grimsteel",
             "repo": "pass-secret-service",
-            "stars": 77,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1992,7 +1992,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:16:00.937Z",
+    "last_updated": "2026-09-05T23:14:21.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
