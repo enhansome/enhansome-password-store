@@ -657,7 +657,7 @@
                 "open_issues": 7,
                 "owner": "roddhjav",
                 "repo": "pass-tomb",
-                "stars": 436,
+                "stars": 437,
                 "topics": [
                   "pass",
                   "pass-extension",
@@ -1074,7 +1074,7 @@
             "open_issues": 33,
             "owner": "cortex",
             "repo": "ripasso",
-            "stars": 829,
+            "stars": 831,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1753,8 +1753,8 @@
             "id": 947881328,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-04T15:28:36Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-06T07:50:27Z",
+            "open_issues": 8,
             "owner": "parcel-pm",
             "repo": "parcel",
             "stars": 7,
@@ -1992,7 +1992,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:14:21.089Z",
+    "last_updated": "2026-09-06T23:06:23.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
