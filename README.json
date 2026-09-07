@@ -1053,7 +1053,7 @@
             "open_issues": 44,
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1013,
+            "stars": 1015,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1091,11 +1091,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-05T16:53:54Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-07T20:37:11Z",
+            "open_issues": 29,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 440,
+            "stars": 442,
             "topics": [
               "android",
               "openpgp",
@@ -1149,8 +1149,8 @@
             "id": 41371296,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-04T00:15:33Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-07T07:31:40Z",
+            "open_issues": 1,
             "owner": "languitar",
             "repo": "pass-git-helper",
             "stars": 373,
@@ -1171,10 +1171,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-05-08T13:53:55Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "timvisee",
             "repo": "prs",
-            "stars": 262,
+            "stars": 263,
             "topics": [
               "cli",
               "git",
@@ -1753,11 +1753,11 @@
             "id": 947881328,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-06T07:50:27Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-07T09:31:22Z",
+            "open_issues": 7,
             "owner": "parcel-pm",
             "repo": "parcel",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1940,7 +1940,7 @@
             "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2481,
+            "stars": 2480,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1992,7 +1992,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T23:06:23.114Z",
+    "last_updated": "2026-09-07T23:43:52.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
