@@ -422,7 +422,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-06-07T16:21:48Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "roddhjav",
                 "repo": "pass-import",
                 "stars": 915,
@@ -633,7 +633,7 @@
                 "open_issues": 73,
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1494,
+                "stars": 1495,
                 "topics": [
                   "otpauth",
                   "password-store"
@@ -1091,7 +1091,7 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T20:37:11Z",
+            "last_commit": "2026-09-08T15:41:57Z",
             "open_issues": 29,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
@@ -1170,7 +1170,7 @@
             "id": 308097248,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-05-08T13:53:55Z",
+            "last_commit": "2026-09-08T19:04:15Z",
             "open_issues": 15,
             "owner": "timvisee",
             "repo": "prs",
@@ -1265,7 +1265,7 @@
             "open_issues": 1,
             "owner": "bergercookie",
             "repo": "awesome-albert-plugins",
-            "stars": 168,
+            "stars": 167,
             "topics": [
               "albert",
               "albert-plugins",
@@ -1753,8 +1753,8 @@
             "id": 947881328,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-07T09:31:22Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-08T13:05:38Z",
+            "open_issues": 8,
             "owner": "parcel-pm",
             "repo": "parcel",
             "stars": 8,
@@ -1940,7 +1940,7 @@
             "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2480,
+            "stars": 2481,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1992,7 +1992,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T23:43:52.712Z",
+    "last_updated": "2026-09-08T23:38:55.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
