@@ -969,10 +969,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:04Z",
-            "open_issues": 175,
+            "open_issues": 174,
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1645,
+            "stars": 1644,
             "topics": [
               "ios-app",
               "password-manager",
@@ -996,10 +996,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:04Z",
-            "open_issues": 175,
+            "open_issues": 174,
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1645,
+            "stars": 1644,
             "topics": [
               "ios-app",
               "password-manager",
@@ -1053,7 +1053,7 @@
             "open_issues": 44,
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1015,
+            "stars": 1016,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1091,8 +1091,8 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T15:41:57Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-09T22:23:19Z",
+            "open_issues": 31,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 442,
@@ -1121,7 +1121,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-08-18T11:15:50Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "geluk",
             "repo": "pass-winmenu",
             "stars": 422,
@@ -1153,7 +1153,7 @@
             "open_issues": 1,
             "owner": "languitar",
             "repo": "pass-git-helper",
-            "stars": 373,
+            "stars": 372,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1171,7 +1171,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-09-08T19:04:15Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "timvisee",
             "repo": "prs",
             "stars": 263,
@@ -1940,7 +1940,7 @@
             "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2481,
+            "stars": 2480,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1992,7 +1992,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T23:38:55.846Z",
+    "last_updated": "2026-09-09T23:29:18.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
@@ -2004,7 +2004,7 @@
       "open_issues": 0,
       "owner": "tijn",
       "repo": "awesome-password-store",
-      "stars": 310,
+      "stars": 311,
       "topics": [
         "awesome",
         "awesome-list",
