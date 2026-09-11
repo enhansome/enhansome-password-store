@@ -1026,7 +1026,7 @@
             "open_issues": 14,
             "owner": "passff",
             "repo": "passff",
-            "stars": 1291,
+            "stars": 1292,
             "topics": [
               "firefox-extension",
               "javascript",
@@ -1091,7 +1091,7 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T21:57:05Z",
+            "last_commit": "2026-09-11T15:47:03Z",
             "open_issues": 29,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
@@ -1667,7 +1667,7 @@
             "open_issues": 0,
             "owner": "nikicat",
             "repo": "gopass-secret-service",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "dbus",
               "freedesktop",
@@ -1775,7 +1775,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-08-31T18:50:10Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "li-nd",
             "repo": "NativePass",
             "stars": 5,
@@ -1940,7 +1940,7 @@
             "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2480,
+            "stars": 2481,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1992,7 +1992,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T23:22:29.982Z",
+    "last_updated": "2026-09-11T23:30:49.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
