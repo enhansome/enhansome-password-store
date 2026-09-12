@@ -425,7 +425,7 @@
                 "open_issues": 22,
                 "owner": "roddhjav",
                 "repo": "pass-import",
-                "stars": 915,
+                "stars": 916,
                 "topics": [
                   "import",
                   "importer",
@@ -633,7 +633,7 @@
                 "open_issues": 73,
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1495,
+                "stars": 1496,
                 "topics": [
                   "otpauth",
                   "password-store"
@@ -1091,11 +1091,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T15:47:03Z",
+            "last_commit": "2026-09-12T22:20:34Z",
             "open_issues": 29,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 442,
+            "stars": 443,
             "topics": [
               "android",
               "openpgp",
@@ -1622,7 +1622,7 @@
             "open_issues": 23,
             "owner": "k8ieone",
             "repo": "identities",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1753,8 +1753,8 @@
             "id": 947881328,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-08T13:05:38Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-12T09:05:27Z",
+            "open_issues": 7,
             "owner": "parcel-pm",
             "repo": "parcel",
             "stars": 8,
@@ -1992,7 +1992,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:30:49.186Z",
+    "last_updated": "2026-09-12T23:16:44.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
