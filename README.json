@@ -1026,7 +1026,7 @@
             "open_issues": 14,
             "owner": "passff",
             "repo": "passff",
-            "stars": 1292,
+            "stars": 1291,
             "topics": [
               "firefox-extension",
               "javascript",
@@ -1091,11 +1091,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-12T22:20:34Z",
+            "last_commit": "2026-09-13T20:12:56Z",
             "open_issues": 29,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 443,
+            "stars": 444,
             "topics": [
               "android",
               "openpgp",
@@ -1149,8 +1149,8 @@
             "id": 41371296,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-10T17:48:35Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-13T07:24:22Z",
+            "open_issues": 1,
             "owner": "languitar",
             "repo": "pass-git-helper",
             "stars": 372,
@@ -1992,7 +1992,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:16:44.695Z",
+    "last_updated": "2026-09-13T23:27:28.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
