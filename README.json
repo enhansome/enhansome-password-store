@@ -1050,7 +1050,7 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2026-09-03T05:07:48Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "browserpass",
             "repo": "browserpass-extension",
             "stars": 1016,
@@ -1070,8 +1070,8 @@
             "id": 85009378,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-27T19:15:58Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-14T17:08:33Z",
+            "open_issues": 34,
             "owner": "cortex",
             "repo": "ripasso",
             "stars": 831,
@@ -1091,11 +1091,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-13T20:12:56Z",
+            "last_commit": "2026-09-14T22:28:07Z",
             "open_issues": 29,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 444,
+            "stars": 445,
             "topics": [
               "android",
               "openpgp",
@@ -1170,7 +1170,7 @@
             "id": 308097248,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T19:04:15Z",
+            "last_commit": "2026-09-14T10:54:35Z",
             "open_issues": 14,
             "owner": "timvisee",
             "repo": "prs",
@@ -1713,6 +1713,27 @@
         },
         {
           "node_type": "item",
+          "title": "parcel",
+          "description": "Chrome & Firefox browser extension with no external dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Simple password manager with no third-party dependencies.",
+            "homepage": null,
+            "id": 947881328,
+            "language": "JavaScript",
+            "license": "ISC",
+            "last_commit": "2026-09-13T23:57:42Z",
+            "open_issues": 7,
+            "owner": "parcel-pm",
+            "repo": "parcel",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T05:36:01.093Z"
+        },
+        {
+          "node_type": "item",
           "title": "pext_module_pass",
           "description": "Password management module for Pext.",
           "children": [],
@@ -1738,27 +1759,6 @@
               "password-store",
               "pext"
             ]
-          },
-          "first_seen": "2026-08-28T05:36:01.093Z"
-        },
-        {
-          "node_type": "item",
-          "title": "parcel",
-          "description": "Chrome & Firefox browser extension with no external dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Simple password manager with no third-party dependencies.",
-            "homepage": null,
-            "id": 947881328,
-            "language": "JavaScript",
-            "license": "ISC",
-            "last_commit": "2026-09-12T09:05:27Z",
-            "open_issues": 7,
-            "owner": "parcel-pm",
-            "repo": "parcel",
-            "stars": 8,
-            "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
         },
@@ -1940,7 +1940,7 @@
             "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2481,
+            "stars": 2482,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1992,7 +1992,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T23:27:28.853Z",
+    "last_updated": "2026-09-14T23:58:17.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
