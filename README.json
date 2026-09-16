@@ -633,7 +633,7 @@
                 "open_issues": 73,
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1497,
+                "stars": 1498,
                 "topics": [
                   "otpauth",
                   "password-store"
@@ -1091,13 +1091,18 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T21:15:28Z",
+            "last_commit": "2026-09-16T22:50:28Z",
             "open_issues": 29,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 445,
             "topics": [
               "android",
+              "autofill",
+              "autofill-service",
+              "credential",
+              "credential-provider",
+              "credential-storage",
               "openpgp",
               "passkey",
               "passkey-manager",
@@ -1401,7 +1406,7 @@
             "open_issues": 6,
             "owner": "grimsteel",
             "repo": "pass-secret-service",
-            "stars": 78,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1723,8 +1728,8 @@
             "id": 947881328,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-15T13:15:29Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-16T04:12:35Z",
+            "open_issues": 4,
             "owner": "parcel-pm",
             "repo": "parcel",
             "stars": 9,
@@ -1992,7 +1997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T23:40:15.723Z",
+    "last_updated": "2026-09-16T23:48:18.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
