@@ -1049,7 +1049,7 @@
             "id": 128682851,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-03T05:07:48Z",
+            "last_commit": "2026-09-19T20:40:24Z",
             "open_issues": 45,
             "owner": "browserpass",
             "repo": "browserpass-extension",
@@ -1091,11 +1091,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T23:28:59Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-19T17:33:53Z",
+            "open_issues": 31,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 446,
+            "stars": 449,
             "topics": [
               "android",
               "autofill",
@@ -1783,7 +1783,7 @@
             "open_issues": 0,
             "owner": "li-nd",
             "repo": "NativePass",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "gpg",
               "macos",
@@ -1942,7 +1942,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-08-25T09:40:10Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
             "stars": 2481,
@@ -1997,7 +1997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T23:33:23.371Z",
+    "last_updated": "2026-09-19T23:28:53.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
