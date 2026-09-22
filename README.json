@@ -425,7 +425,7 @@
                 "open_issues": 22,
                 "owner": "roddhjav",
                 "repo": "pass-import",
-                "stars": 916,
+                "stars": 917,
                 "topics": [
                   "import",
                   "importer",
@@ -633,7 +633,7 @@
                 "open_issues": 73,
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1498,
+                "stars": 1497,
                 "topics": [
                   "otpauth",
                   "password-store"
@@ -972,7 +972,7 @@
             "open_issues": 176,
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1644,
+            "stars": 1645,
             "topics": [
               "ios-app",
               "password-manager",
@@ -999,7 +999,7 @@
             "open_issues": 176,
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1644,
+            "stars": 1645,
             "topics": [
               "ios-app",
               "password-manager",
@@ -1026,7 +1026,7 @@
             "open_issues": 14,
             "owner": "passff",
             "repo": "passff",
-            "stars": 1291,
+            "stars": 1290,
             "topics": [
               "firefox-extension",
               "javascript",
@@ -1053,7 +1053,7 @@
             "open_issues": 45,
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1018,
+            "stars": 1017,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1091,11 +1091,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-20T19:34:03Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-21T19:54:41Z",
+            "open_issues": 33,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 450,
+            "stars": 449,
             "topics": [
               "android",
               "autofill",
@@ -1129,7 +1129,7 @@
             "open_issues": 14,
             "owner": "geluk",
             "repo": "pass-winmenu",
-            "stars": 423,
+            "stars": 424,
             "topics": [
               "cryptography",
               "csharp",
@@ -1406,7 +1406,7 @@
             "open_issues": 6,
             "owner": "grimsteel",
             "repo": "pass-secret-service",
-            "stars": 79,
+            "stars": 80,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1729,7 +1729,7 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2026-09-16T04:12:35Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "parcel-pm",
             "repo": "parcel",
             "stars": 9,
@@ -1779,8 +1779,8 @@
             "id": 1343922729,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-18T14:54:15Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-21T16:27:23Z",
+            "open_issues": 2,
             "owner": "li-nd",
             "repo": "NativePass",
             "stars": 7,
@@ -1945,7 +1945,7 @@
             "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2480,
+            "stars": 2479,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1997,7 +1997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T23:29:41.081Z",
+    "last_updated": "2026-09-22T00:16:06.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
