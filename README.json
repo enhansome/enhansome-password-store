@@ -1053,7 +1053,7 @@
             "open_issues": 45,
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1017,
+            "stars": 1018,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1091,11 +1091,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T19:54:41Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-22T15:03:28Z",
+            "open_issues": 32,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 449,
+            "stars": 450,
             "topics": [
               "android",
               "autofill",
@@ -1728,8 +1728,8 @@
             "id": 947881328,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-16T04:12:35Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-22T02:11:31Z",
+            "open_issues": 3,
             "owner": "parcel-pm",
             "repo": "parcel",
             "stars": 9,
@@ -1779,8 +1779,8 @@
             "id": 1343922729,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-21T16:27:23Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-22T09:54:01Z",
+            "open_issues": 1,
             "owner": "li-nd",
             "repo": "NativePass",
             "stars": 7,
@@ -1945,7 +1945,7 @@
             "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2479,
+            "stars": 2480,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1997,7 +1997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:16:06.348Z",
+    "last_updated": "2026-09-22T23:47:09.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
