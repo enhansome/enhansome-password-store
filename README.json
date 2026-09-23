@@ -543,7 +543,7 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2021-12-19T04:37:07Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "ibizaman",
                 "repo": "pass-ssh",
                 "stars": 16,
@@ -633,7 +633,7 @@
                 "open_issues": 73,
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1497,
+                "stars": 1498,
                 "topics": [
                   "otpauth",
                   "password-store"
@@ -1053,7 +1053,7 @@
             "open_issues": 45,
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1018,
+            "stars": 1019,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1095,7 +1095,7 @@
             "open_issues": 32,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 450,
+            "stars": 451,
             "topics": [
               "android",
               "autofill",
@@ -1729,7 +1729,7 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2026-09-22T02:11:31Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "parcel-pm",
             "repo": "parcel",
             "stars": 9,
@@ -1945,7 +1945,7 @@
             "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2480,
+            "stars": 2479,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1997,7 +1997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:47:09.508Z",
+    "last_updated": "2026-09-23T23:55:41.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
