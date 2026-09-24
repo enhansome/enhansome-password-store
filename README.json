@@ -972,7 +972,7 @@
             "open_issues": 176,
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1645,
+            "stars": 1644,
             "topics": [
               "ios-app",
               "password-manager",
@@ -999,7 +999,7 @@
             "open_issues": 176,
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1645,
+            "stars": 1644,
             "topics": [
               "ios-app",
               "password-manager",
@@ -1074,7 +1074,7 @@
             "open_issues": 34,
             "owner": "cortex",
             "repo": "ripasso",
-            "stars": 832,
+            "stars": 831,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1091,7 +1091,7 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-22T15:03:28Z",
+            "last_commit": "2026-09-24T18:11:02Z",
             "open_issues": 32,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
@@ -1154,7 +1154,7 @@
             "id": 41371296,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-17T21:04:24Z",
+            "last_commit": "2026-09-24T01:48:51Z",
             "open_issues": 1,
             "owner": "languitar",
             "repo": "pass-git-helper",
@@ -1728,7 +1728,7 @@
             "id": 947881328,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-22T02:11:31Z",
+            "last_commit": "2026-09-24T23:30:28Z",
             "open_issues": 4,
             "owner": "parcel-pm",
             "repo": "parcel",
@@ -1945,7 +1945,7 @@
             "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2479,
+            "stars": 2480,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1997,7 +1997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:55:41.030Z",
+    "last_updated": "2026-09-24T23:59:25.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
