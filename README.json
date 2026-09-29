@@ -972,7 +972,7 @@
             "open_issues": 177,
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1645,
+            "stars": 1646,
             "topics": [
               "ios-app",
               "password-manager",
@@ -999,7 +999,7 @@
             "open_issues": 177,
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1645,
+            "stars": 1646,
             "topics": [
               "ios-app",
               "password-manager",
@@ -1050,7 +1050,7 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2026-09-19T20:40:24Z",
-            "open_issues": 45,
+            "open_issues": 47,
             "owner": "browserpass",
             "repo": "browserpass-extension",
             "stars": 1019,
@@ -1091,11 +1091,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-26T11:49:33Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-28T23:16:56Z",
+            "open_issues": 36,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "android",
               "autofill",
@@ -1129,7 +1129,7 @@
             "open_issues": 14,
             "owner": "geluk",
             "repo": "pass-winmenu",
-            "stars": 424,
+            "stars": 425,
             "topics": [
               "cryptography",
               "csharp",
@@ -1406,7 +1406,7 @@
             "open_issues": 6,
             "owner": "grimsteel",
             "repo": "pass-secret-service",
-            "stars": 81,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1941,11 +1941,11 @@
             "id": 16000225,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-25T09:40:10Z",
+            "last_commit": "2026-09-28T06:11:01Z",
             "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2480,
+            "stars": 2481,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1997,7 +1997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:55:57.290Z",
+    "last_updated": "2026-09-29T01:13:43.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
