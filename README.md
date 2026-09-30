@@ -87,14 +87,14 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[passff](https://github.com/passff/passff) ⭐ 1,291 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-26**: zx2c4 pass manager extension for Firefox, Chrome and Opera.
 * **[browserpass](https://github.com/browserpass/browserpass-extension) ⭐ 1,019 | 🐛 47 | 🌐 JavaScript | 📅 2026-09-19**: Chrome & Firefox browser extension for pass.
 * **[ripasso](https://github.com/cortex/ripasso) ⭐ 831 | 🐛 33 | 🌐 Rust | 📅 2026-09-14**: A simple password manager written in Rust.
-* **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store) ⭐ 453 | 🐛 36 | 🌐 Kotlin | 📅 2026-09-28**: Android application compatible with ZX2C4's Pass command line application.
+* **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store) ⭐ 455 | 🐛 33 | 🌐 Kotlin | 📅 2026-09-30**: Android application compatible with ZX2C4's Pass command line application.
 * **[pass-winmenu](https://github.com/geluk/pass-winmenu) ⭐ 425 | 🐛 14 | 🌐 C# | 📅 2026-08-18**: An easy-to-use Windows interface for pass
-* **[pass-git-helper](https://github.com/languitar/pass-git-helper) ⭐ 372 | 🐛 1 | 🌐 Python | 📅 2026-09-26**: A git credential helper interfacing with pass.
+* **[pass-git-helper](https://github.com/languitar/pass-git-helper) ⭐ 372 | 🐛 1 | 🌐 Python | 📅 2026-09-29**: A git credential helper interfacing with pass.
 * **[prs](https://github.com/timvisee/prs) ⭐ 264 | 🐛 14 | 🌐 Rust | 📅 2026-09-15**: A multi-platform pass client in Rust supporting sync, TOTP, Tombs and more.
 * **[gopass](https://github.com/cortex/gopass) ⚠️ Archived**: Simple UI for password-store. (UNMAINTANED)
 * **[pass.el](https://github.com/NicolasPetton/pass) ⭐ 199 | 🐛 8 | 🌐 Emacs Lisp | 📅 2026-02-14** A major mode for password-store.
 * **[Pass4Win](https://github.com/mbos/Pass4Win) ⚠️ Archived**: An interface for Windows. (inactive)
-* **[pass\_rlded](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/pass_rlded) ⚠️ Archived**: [Albert](https://github.com/albertlauncher/albert) ⭐ 8,002 | 🐛 7 | 🌐 C++ | 📅 2026-09-27 integration
+* **[pass\_rlded](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/pass_rlded) ⭐ 167 | 🐛 0 | 🌐 Python | 📅 2026-09-29**: [Albert](https://github.com/albertlauncher/albert) ⭐ 8,005 | 🐛 7 | 🌐 C++ | 📅 2026-09-27 integration
 * **[upass](https://github.com/Kwpolska/upass) ⚠️ Archived**: Console UI for pass.
 * **[Pass for macOS](https://github.com/adur1990/Pass-for-macOS) ⭐ 121 | 🐛 6 | 🌐 Swift | 📅 2021-10-26** macOS wrapper and Safari extension.
 * **[gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider) ⭐ 97 | 🐛 0 | 🌐 Python | 📅 2026-04-19**: Pass password manager search provider for gnome-shell.
@@ -107,7 +107,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[tmux-pass](https://github.com/rafi/tmux-pass) ⭐ 23 | 🐛 3 | 🌐 Shell | 📅 2025-05-21**: Quick password-store browser with preview using fzf in tmux.
 * **[rofi-pass-wayland](https://github.com/Seme4eg/rofi-pass-wayland) ⭐ 20 | 🐛 2 | 🌐 Shell | 📅 2026-01-12**: Rofi frontent for ZX2C4 pass project (wayland only).
 * **[gopass-tui](https://github.com/leitzler/gopass-tui) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2018-01-05**: Terminal UI for pass/gopass.
-* **[alfred-pass](https://github.com/chrisgrieser/alfred-pass) ⭐ 17 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-03**: Feature-rich Alfred integration.
+* **[alfred-pass](https://github.com/chrisgrieser/alfred-pass) ⭐ 17 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-03**: Feature-rich Alfred integration.
 * **[Identities](https://github.com/k8ieone/identities) ⭐ 17 | 🐛 23 | 🌐 Python | 📅 2026-07-15**: Modern password-store client made for GNOME.
 * **[pass-ulauncher](https://github.com/yannishuber/pass-ulauncher) ⭐ 15 | 🐛 7 | 🌐 Python | 📅 2019-11-12**: Integration for [Ulauncher](https://ulauncher.io/).
 * **[gopass-secret-service](https://github.com/nikicat/gopass-secret-service) ⭐ 14 | 🐛 0 | 🌐 Go | 📅 2026-07-15**: D-Bus [Secret Service](https://specifications.freedesktop.org/secret-service/latest/) provider backed by gopass, so desktop apps (browsers, Electron apps, NetworkManager) store their secrets in the password store.
@@ -161,4 +161,4 @@ These scripts are not extensions but they can be very useful nontheless.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
