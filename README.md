@@ -21,7 +21,7 @@ Additions and improvements are welcome! Please make pull-requests.
 
 ### Auditing
 
-* **[pass-audit](https://github.com/roddhjav/pass-audit) ⭐ 104 | 🐛 8 | 🌐 Python | 📅 2025-05-14** (by [roddhjav](https://github.com/roddhjav)): A pass extension for auditing your password repository. *(There are two extensions with this name; this one checks Have I Been Pwned and estimates password strength using Dropbox' [zxcvbn](https://blogs.dropbox.com/tech/2012/04/zxcvbn-realistic-password-strength-estimation/) algorithm.)*
+* **[pass-audit](https://github.com/roddhjav/pass-audit) ⭐ 103 | 🐛 8 | 🌐 Python | 📅 2025-05-14** (by [roddhjav](https://github.com/roddhjav)): A pass extension for auditing your password repository. *(There are two extensions with this name; this one checks Have I Been Pwned and estimates password strength using Dropbox' [zxcvbn](https://blogs.dropbox.com/tech/2012/04/zxcvbn-realistic-password-strength-estimation/) algorithm.)*
 * **[pass-pwned](https://github.com/alzeih/pass-pwned/) ⭐ 10 | 🐛 3 | 🌐 Shell | 📅 2019-08-20** (by [alzeih](https://github.com/alzeih)): Password-Store extension for Have I Been Pwned? Pwned Passwords v2 API.
 * **[pass-report](https://github.com/Kdecherf/pass-report) ⭐ 8 | 🐛 0 | 🌐 Shell | 📅 2018-04-01**: A pass extension that reports age and length of passwords.
 * **[pass-audit](https://github.com/benburwell/pass-audit) ⭐ 6 | 🐛 0 | 🌐 Roff | 📅 2018-02-24** (by [benburwell](https://github.com/benburwell)): A pass extension for checking whether your passwords may be compromised. *(There are two extensions with this name; this one checks Have I Been Pwned as well as a local wordlist file.)*
@@ -65,7 +65,7 @@ Additions and improvements are welcome! Please make pull-requests.
 
 ### All other extensions
 
-* **[pass-otp](https://github.com/tadfisher/pass-otp) ⭐ 1,499 | 🐛 73 | 🌐 Shell | 📅 2025-08-09**: support for one-time-password (OTP) tokens.
+* **[pass-otp](https://github.com/tadfisher/pass-otp) ⭐ 1,498 | 🐛 73 | 🌐 Shell | 📅 2025-08-09**: support for one-time-password (OTP) tokens.
 * **[pass-tomb](https://github.com/roddhjav/pass-tomb) ⭐ 437 | 🐛 7 | 🌐 Shell | 📅 2026-04-07**: helps you to keep the whole tree of password encrypted inside a tomb.
 * **[pass-update](https://github.com/roddhjav/pass-update) ⭐ 325 | 🐛 7 | 🌐 Shell | 📅 2025-08-16**: an easy flow for updating passwords.
 * **[pass-keybase](https://github.com/mbauhardt/pass-keybase) ⭐ 47 | 🐛 1 | 🌐 Shell | 📅 2020-05-15**: A pass extension to re-encrypt and decrypt pass entries via keybase.
@@ -84,17 +84,17 @@ Additions and improvements are welcome! Please make pull-requests.
 
 * **[Pass for iOS](https://github.com/mssun/passforios) ⭐ 1,646 | 🐛 177 | 🌐 Swift | 📅 2026-09-26**: An iOS client.
 * **[passforios](https://github.com/mssun/passforios) ⭐ 1,646 | 🐛 177 | 🌐 Swift | 📅 2026-09-26**: Pass for iOS - an iOS client compatible with Pass command line application.
-* **[passff](https://github.com/passff/passff) ⭐ 1,291 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-26**: zx2c4 pass manager extension for Firefox, Chrome and Opera.
+* **[passff](https://github.com/passff/passff) ⭐ 1,281 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-26**: zx2c4 pass manager extension for Firefox, Chrome and Opera.
 * **[browserpass](https://github.com/browserpass/browserpass-extension) ⭐ 1,019 | 🐛 48 | 🌐 JavaScript | 📅 2026-10-01**: Chrome & Firefox browser extension for pass.
 * **[ripasso](https://github.com/cortex/ripasso) ⭐ 831 | 🐛 33 | 🌐 Rust | 📅 2026-09-14**: A simple password manager written in Rust.
-* **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store) ⭐ 458 | 🐛 34 | 🌐 Kotlin | 📅 2026-10-01**: Android application compatible with ZX2C4's Pass command line application.
+* **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store) ⭐ 458 | 🐛 34 | 🌐 Kotlin | 📅 2026-10-02**: Android application compatible with ZX2C4's Pass command line application.
 * **[pass-winmenu](https://github.com/geluk/pass-winmenu) ⭐ 425 | 🐛 14 | 🌐 C# | 📅 2026-08-18**: An easy-to-use Windows interface for pass
 * **[pass-git-helper](https://github.com/languitar/pass-git-helper) ⭐ 372 | 🐛 2 | 🌐 Python | 📅 2026-10-01**: A git credential helper interfacing with pass.
 * **[prs](https://github.com/timvisee/prs) ⭐ 264 | 🐛 14 | 🌐 Rust | 📅 2026-09-15**: A multi-platform pass client in Rust supporting sync, TOTP, Tombs and more.
 * **[gopass](https://github.com/cortex/gopass) ⚠️ Archived**: Simple UI for password-store. (UNMAINTANED)
 * **[pass.el](https://github.com/NicolasPetton/pass) ⭐ 199 | 🐛 8 | 🌐 Emacs Lisp | 📅 2026-02-14** A major mode for password-store.
 * **[Pass4Win](https://github.com/mbos/Pass4Win) ⚠️ Archived**: An interface for Windows. (inactive)
-* **[pass\_rlded](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/pass_rlded) ⭐ 167 | 🐛 0 | 🌐 Python | 📅 2026-09-29**: [Albert](https://github.com/albertlauncher/albert) ⭐ 8,005 | 🐛 7 | 🌐 C++ | 📅 2026-09-27 integration
+* **[pass\_rlded](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/pass_rlded) ⭐ 167 | 🐛 0 | 🌐 Python | 📅 2026-09-29**: [Albert](https://github.com/albertlauncher/albert) ⭐ 8,004 | 🐛 7 | 🌐 C++ | 📅 2026-09-27 integration
 * **[upass](https://github.com/Kwpolska/upass) ⚠️ Archived**: Console UI for pass.
 * **[Pass for macOS](https://github.com/adur1990/Pass-for-macOS) ⭐ 121 | 🐛 6 | 🌐 Swift | 📅 2021-10-26** macOS wrapper and Safari extension.
 * **[gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider) ⭐ 97 | 🐛 0 | 🌐 Python | 📅 2026-04-19**: Pass password manager search provider for gnome-shell.
@@ -161,4 +161,4 @@ These scripts are not extensions but they can be very useful nontheless.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
