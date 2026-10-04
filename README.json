@@ -633,7 +633,7 @@
                 "open_issues": 73,
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1498,
+                "stars": 1499,
                 "topics": [
                   "otpauth",
                   "password-store"
@@ -972,7 +972,7 @@
             "open_issues": 177,
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1646,
+            "stars": 1647,
             "topics": [
               "ios-app",
               "password-manager",
@@ -999,7 +999,7 @@
             "open_issues": 177,
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1646,
+            "stars": 1647,
             "topics": [
               "ios-app",
               "password-manager",
@@ -1053,7 +1053,7 @@
             "open_issues": 48,
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1019,
+            "stars": 1020,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1074,7 +1074,7 @@
             "open_issues": 33,
             "owner": "cortex",
             "repo": "ripasso",
-            "stars": 831,
+            "stars": 832,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1091,11 +1091,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T21:10:43Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-03T13:45:37Z",
+            "open_issues": 32,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 460,
+            "stars": 461,
             "topics": [
               "android",
               "autofill",
@@ -1154,8 +1154,8 @@
             "id": 41371296,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-01T21:44:47Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-03T19:17:05Z",
+            "open_issues": 1,
             "owner": "languitar",
             "repo": "pass-git-helper",
             "stars": 372,
@@ -1728,8 +1728,8 @@
             "id": 947881328,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-25T23:57:17Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-03T13:56:05Z",
+            "open_issues": 4,
             "owner": "parcel-pm",
             "repo": "parcel",
             "stars": 9,
@@ -1945,7 +1945,7 @@
             "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2482,
+            "stars": 2485,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1997,7 +1997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:00:46.635Z",
+    "last_updated": "2026-10-04T00:00:39.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
