@@ -1092,7 +1092,7 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-10-06T10:17:30Z",
-            "open_issues": 34,
+            "open_issues": 33,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 462,
@@ -1779,8 +1779,8 @@
             "id": 1343922729,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-22T09:54:01Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-06T15:58:02Z",
+            "open_issues": 0,
             "owner": "li-nd",
             "repo": "NativePass",
             "stars": 8,
@@ -1997,7 +1997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:17:53.361Z",
+    "last_updated": "2026-10-07T01:00:01.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
