@@ -1091,8 +1091,8 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T10:17:30Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-07T23:04:32Z",
+            "open_issues": 38,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 462,
@@ -1779,7 +1779,7 @@
             "id": 1343922729,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-06T15:58:02Z",
+            "last_commit": "2026-10-07T10:49:39Z",
             "open_issues": 0,
             "owner": "li-nd",
             "repo": "NativePass",
@@ -1945,7 +1945,7 @@
             "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2487,
+            "stars": 2488,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1997,7 +1997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:00:01.696Z",
+    "last_updated": "2026-10-08T01:16:28.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
