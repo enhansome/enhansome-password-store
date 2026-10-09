@@ -969,7 +969,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-09-26T07:26:02Z",
-            "open_issues": 177,
+            "open_issues": 178,
             "owner": "mssun",
             "repo": "passforios",
             "stars": 1648,
@@ -996,7 +996,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-09-26T07:26:02Z",
-            "open_issues": 177,
+            "open_issues": 178,
             "owner": "mssun",
             "repo": "passforios",
             "stars": 1648,
@@ -1053,7 +1053,7 @@
             "open_issues": 48,
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1020,
+            "stars": 1021,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1074,7 +1074,7 @@
             "open_issues": 33,
             "owner": "cortex",
             "repo": "ripasso",
-            "stars": 832,
+            "stars": 834,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1091,11 +1091,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T23:04:32Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-08T23:12:49Z",
+            "open_issues": 36,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 462,
+            "stars": 465,
             "topics": [
               "android",
               "autofill",
@@ -1270,7 +1270,7 @@
             "open_issues": 0,
             "owner": "bergercookie",
             "repo": "awesome-albert-plugins",
-            "stars": 167,
+            "stars": 166,
             "topics": [
               "albert",
               "albert-plugins",
@@ -1945,7 +1945,7 @@
             "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2488,
+            "stars": 2489,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1997,7 +1997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T01:16:28.044Z",
+    "last_updated": "2026-10-09T01:23:43.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
