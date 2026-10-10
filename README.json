@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "roddhjav",
                 "repo": "pass-audit",
-                "stars": 103,
+                "stars": 104,
                 "topics": [
                   "audit",
                   "haveibeenpwned",
@@ -1053,7 +1053,7 @@
             "open_issues": 48,
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1021,
+            "stars": 1022,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1091,11 +1091,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T23:12:49Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-09T04:44:20Z",
+            "open_issues": 35,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 465,
+            "stars": 466,
             "topics": [
               "android",
               "autofill",
@@ -1154,8 +1154,8 @@
             "id": 41371296,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-05T23:04:50Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-09T02:40:21Z",
+            "open_issues": 2,
             "owner": "languitar",
             "repo": "pass-git-helper",
             "stars": 373,
@@ -1945,7 +1945,7 @@
             "open_issues": 1,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2489,
+            "stars": 2490,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1997,7 +1997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T01:23:43.476Z",
+    "last_updated": "2026-10-10T01:12:27.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
