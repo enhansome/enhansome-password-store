@@ -1091,11 +1091,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T04:44:20Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-11T21:48:07Z",
+            "open_issues": 36,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 466,
+            "stars": 467,
             "topics": [
               "android",
               "autofill",
@@ -1154,11 +1154,11 @@
             "id": 41371296,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-09T02:40:21Z",
+            "last_commit": "2026-10-11T21:44:02Z",
             "open_issues": 2,
             "owner": "languitar",
             "repo": "pass-git-helper",
-            "stars": 373,
+            "stars": 374,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1997,7 +1997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T00:25:43.753Z",
+    "last_updated": "2026-10-12T00:42:59.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
@@ -2009,7 +2009,7 @@
       "open_issues": 0,
       "owner": "tijn",
       "repo": "awesome-password-store",
-      "stars": 311,
+      "stars": 312,
       "topics": [
         "awesome",
         "awesome-list",

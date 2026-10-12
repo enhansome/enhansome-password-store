@@ -87,14 +87,14 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[passff](https://github.com/passff/passff) ⭐ 1,282 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-26**: zx2c4 pass manager extension for Firefox, Chrome and Opera.
 * **[browserpass](https://github.com/browserpass/browserpass-extension) ⭐ 1,022 | 🐛 48 | 🌐 JavaScript | 📅 2026-10-01**: Chrome & Firefox browser extension for pass.
 * **[ripasso](https://github.com/cortex/ripasso) ⭐ 834 | 🐛 33 | 🌐 Rust | 📅 2026-09-14**: A simple password manager written in Rust.
-* **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store) ⭐ 466 | 🐛 35 | 🌐 Kotlin | 📅 2026-10-09**: Android application compatible with ZX2C4's Pass command line application.
+* **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store) ⭐ 467 | 🐛 36 | 🌐 Kotlin | 📅 2026-10-11**: Android application compatible with ZX2C4's Pass command line application.
 * **[pass-winmenu](https://github.com/geluk/pass-winmenu) ⭐ 424 | 🐛 14 | 🌐 C# | 📅 2026-08-18**: An easy-to-use Windows interface for pass
-* **[pass-git-helper](https://github.com/languitar/pass-git-helper) ⭐ 373 | 🐛 2 | 🌐 Python | 📅 2026-10-09**: A git credential helper interfacing with pass.
+* **[pass-git-helper](https://github.com/languitar/pass-git-helper) ⭐ 374 | 🐛 2 | 🌐 Python | 📅 2026-10-11**: A git credential helper interfacing with pass.
 * **[prs](https://github.com/timvisee/prs) ⭐ 264 | 🐛 14 | 🌐 Rust | 📅 2026-09-15**: A multi-platform pass client in Rust supporting sync, TOTP, Tombs and more.
 * **[gopass](https://github.com/cortex/gopass) ⚠️ Archived**: Simple UI for password-store. (UNMAINTANED)
 * **[pass.el](https://github.com/NicolasPetton/pass) ⭐ 199 | 🐛 8 | 🌐 Emacs Lisp | 📅 2026-02-14** A major mode for password-store.
 * **[Pass4Win](https://github.com/mbos/Pass4Win) ⚠️ Archived**: An interface for Windows. (inactive)
-* **[pass\_rlded](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/pass_rlded) ⭐ 166 | 🐛 0 | 🌐 Python | 📅 2026-09-29**: [Albert](https://github.com/albertlauncher/albert) ⭐ 8,005 | 🐛 6 | 🌐 C++ | 📅 2026-09-27 integration
+* **[pass\_rlded](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/pass_rlded) ⭐ 166 | 🐛 0 | 🌐 Python | 📅 2026-09-29**: [Albert](https://github.com/albertlauncher/albert) ⭐ 8,006 | 🐛 6 | 🌐 C++ | 📅 2026-09-27 integration
 * **[upass](https://github.com/Kwpolska/upass) ⚠️ Archived**: Console UI for pass.
 * **[Pass for macOS](https://github.com/adur1990/Pass-for-macOS) ⭐ 121 | 🐛 6 | 🌐 Swift | 📅 2021-10-26** macOS wrapper and Safari extension.
 * **[gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider) ⭐ 97 | 🐛 0 | 🌐 Python | 📅 2026-04-19**: Pass password manager search provider for gnome-shell.
@@ -161,4 +161,4 @@ These scripts are not extensions but they can be very useful nontheless.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
