@@ -1049,7 +1049,7 @@
             "id": 128682851,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-13T17:52:32Z",
+            "last_commit": "2026-10-16T17:33:04Z",
             "open_issues": 48,
             "owner": "browserpass",
             "repo": "browserpass-extension",
@@ -1095,7 +1095,7 @@
             "open_issues": 29,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 472,
+            "stars": 473,
             "topics": [
               "android",
               "autofill",
@@ -1267,7 +1267,7 @@
             "id": 222878362,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T16:54:47Z",
+            "last_commit": "2026-10-16T12:07:05Z",
             "open_issues": 0,
             "owner": "bergercookie",
             "repo": "awesome-albert-plugins",
@@ -1998,7 +1998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:48:59.610Z",
+    "last_updated": "2026-10-16T23:50:47.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
