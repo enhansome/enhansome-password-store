@@ -373,6 +373,7 @@
                 "repo": "pass-cl",
                 "stars": 2,
                 "topics": [
+                  "fzf",
                   "pass",
                   "pass-extension",
                   "password-store",
@@ -1049,11 +1050,11 @@
             "id": 128682851,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-16T17:33:04Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-17T14:34:06Z",
+            "open_issues": 46,
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1023,
+            "stars": 1024,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1155,7 +1156,7 @@
             "id": 41371296,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-13T00:56:28Z",
+            "last_commit": "2026-10-17T22:29:33Z",
             "open_issues": 1,
             "owner": "languitar",
             "repo": "pass-git-helper",
@@ -1407,7 +1408,7 @@
             "open_issues": 6,
             "owner": "grimsteel",
             "repo": "pass-secret-service",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1946,7 +1947,7 @@
             "open_issues": 2,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2498,
+            "stars": 2497,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1998,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:50:47.291Z",
+    "last_updated": "2026-10-17T23:21:55.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
