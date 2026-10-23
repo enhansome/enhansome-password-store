@@ -1092,8 +1092,8 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-22T20:28:43Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-23T20:52:05Z",
+            "open_issues": 30,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 477,
@@ -1268,7 +1268,7 @@
             "id": 222878362,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-20T15:55:41Z",
+            "last_commit": "2026-10-23T14:14:37Z",
             "open_issues": 0,
             "owner": "bergercookie",
             "repo": "awesome-albert-plugins",
@@ -1408,7 +1408,7 @@
             "open_issues": 6,
             "owner": "grimsteel",
             "repo": "pass-secret-service",
-            "stars": 84,
+            "stars": 85,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1730,7 +1730,7 @@
             "id": 947881328,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-15T02:20:31Z",
+            "last_commit": "2026-10-23T00:23:53Z",
             "open_issues": 4,
             "owner": "parcel-pm",
             "repo": "parcel",
@@ -1781,7 +1781,7 @@
             "id": 1343922729,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-21T16:43:09Z",
+            "last_commit": "2026-10-23T16:15:22Z",
             "open_issues": 0,
             "owner": "li-nd",
             "repo": "NativePass",
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:07:58.933Z",
+    "last_updated": "2026-10-23T23:57:58.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
