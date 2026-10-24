@@ -323,7 +323,7 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2021-12-29T01:35:43Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "rjekker",
                 "repo": "pass-extension-meta",
                 "stars": 17,
@@ -426,7 +426,7 @@
                 "open_issues": 21,
                 "owner": "roddhjav",
                 "repo": "pass-import",
-                "stars": 916,
+                "stars": 915,
                 "topics": [
                   "import",
                   "importer",
@@ -634,7 +634,7 @@
                 "open_issues": 73,
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1498,
+                "stars": 1497,
                 "topics": [
                   "otpauth",
                   "password-store"
@@ -973,7 +973,7 @@
             "open_issues": 178,
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1649,
+            "stars": 1648,
             "topics": [
               "ios-app",
               "password-manager",
@@ -1000,7 +1000,7 @@
             "open_issues": 178,
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1649,
+            "stars": 1648,
             "topics": [
               "ios-app",
               "password-manager",
@@ -1027,7 +1027,7 @@
             "open_issues": 14,
             "owner": "passff",
             "repo": "passff",
-            "stars": 1280,
+            "stars": 1278,
             "topics": [
               "firefox-extension",
               "javascript",
@@ -1051,10 +1051,10 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2026-10-17T14:34:06Z",
-            "open_issues": 46,
+            "open_issues": 45,
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1024,
+            "stars": 1022,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1075,7 +1075,7 @@
             "open_issues": 33,
             "owner": "cortex",
             "repo": "ripasso",
-            "stars": 833,
+            "stars": 834,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1092,7 +1092,7 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T20:52:05Z",
+            "last_commit": "2026-10-24T14:11:34Z",
             "open_issues": 30,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
@@ -1730,7 +1730,7 @@
             "id": 947881328,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-23T00:23:53Z",
+            "last_commit": "2026-10-24T02:07:01Z",
             "open_issues": 4,
             "owner": "parcel-pm",
             "repo": "parcel",
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:57:58.643Z",
+    "last_updated": "2026-10-24T23:39:47.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
