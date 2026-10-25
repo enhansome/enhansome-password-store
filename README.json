@@ -1092,11 +1092,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T14:11:34Z",
+            "last_commit": "2026-10-25T22:34:05Z",
             "open_issues": 30,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 477,
+            "stars": 478,
             "topics": [
               "android",
               "autofill",
@@ -1156,8 +1156,8 @@
             "id": 41371296,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-22T18:34:26Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-25T13:37:33Z",
+            "open_issues": 2,
             "owner": "languitar",
             "repo": "pass-git-helper",
             "stars": 375,
@@ -1947,7 +1947,7 @@
             "open_issues": 2,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2502,
+            "stars": 2503,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T23:39:47.482Z",
+    "last_updated": "2026-10-25T23:30:44.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
