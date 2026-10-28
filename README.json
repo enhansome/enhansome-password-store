@@ -634,7 +634,7 @@
                 "open_issues": 73,
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1498,
+                "stars": 1497,
                 "topics": [
                   "otpauth",
                   "password-store"
@@ -1027,7 +1027,7 @@
             "open_issues": 14,
             "owner": "passff",
             "repo": "passff",
-            "stars": 1279,
+            "stars": 1280,
             "topics": [
               "firefox-extension",
               "javascript",
@@ -1092,8 +1092,8 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-26T22:50:45Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-27T05:33:55Z",
+            "open_issues": 32,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 478,
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T00:45:57.380Z",
+    "last_updated": "2026-10-28T00:42:32.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
