@@ -973,7 +973,7 @@
             "open_issues": 178,
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1649,
+            "stars": 1650,
             "topics": [
               "ios-app",
               "password-manager",
@@ -1000,7 +1000,7 @@
             "open_issues": 178,
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1649,
+            "stars": 1650,
             "topics": [
               "ios-app",
               "password-manager",
@@ -1092,11 +1092,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-29T23:09:00Z",
+            "last_commit": "2026-10-30T21:19:04Z",
             "open_issues": 31,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 479,
+            "stars": 480,
             "topics": [
               "android",
               "autofill",
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T01:19:26.911Z",
+    "last_updated": "2026-10-31T01:00:06.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
