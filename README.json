@@ -1051,7 +1051,7 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2026-10-17T14:34:06Z",
-            "open_issues": 46,
+            "open_issues": 48,
             "owner": "browserpass",
             "repo": "browserpass-extension",
             "stars": 1023,
@@ -1947,7 +1947,7 @@
             "open_issues": 2,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2505,
+            "stars": 2506,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:00:06.850Z",
+    "last_updated": "2026-11-01T00:24:04.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
@@ -2011,7 +2011,7 @@
       "open_issues": 0,
       "owner": "tijn",
       "repo": "awesome-password-store",
-      "stars": 312,
+      "stars": 313,
       "topics": [
         "awesome",
         "awesome-list",
