@@ -631,7 +631,7 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2025-08-09T21:12:17Z",
-                "open_issues": 73,
+                "open_issues": 72,
                 "owner": "pass-extension",
                 "repo": "pass-otp",
                 "stars": 1496,
@@ -1092,7 +1092,7 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T21:19:04Z",
+            "last_commit": "2026-11-01T21:27:53Z",
             "open_issues": 31,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
@@ -1947,7 +1947,7 @@
             "open_issues": 2,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2506,
+            "stars": 2510,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:24:04.766Z",
+    "last_updated": "2026-11-02T01:00:03.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
