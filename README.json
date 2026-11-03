@@ -426,7 +426,7 @@
                 "open_issues": 21,
                 "owner": "roddhjav",
                 "repo": "pass-import",
-                "stars": 916,
+                "stars": 915,
                 "topics": [
                   "import",
                   "importer",
@@ -1092,8 +1092,8 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-01T21:27:53Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-03T02:40:52Z",
+            "open_issues": 30,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 480,
@@ -1650,7 +1650,7 @@
             "open_issues": 0,
             "owner": "nikicat",
             "repo": "gopass-secret-service",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "dbus",
               "freedesktop",
@@ -1947,7 +1947,7 @@
             "open_issues": 2,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2510,
+            "stars": 2511,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:00:03.416Z",
+    "last_updated": "2026-11-03T03:02:11.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
