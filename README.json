@@ -769,7 +769,7 @@
                 "open_issues": 0,
                 "owner": "8go",
                 "repo": "pass-grave",
-                "stars": 17,
+                "stars": 16,
                 "topics": [
                   "extension",
                   "grave",
@@ -1027,7 +1027,7 @@
             "open_issues": 14,
             "owner": "passff",
             "repo": "passff",
-            "stars": 1280,
+            "stars": 1281,
             "topics": [
               "firefox-extension",
               "javascript",
@@ -1054,7 +1054,7 @@
             "open_issues": 48,
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1023,
+            "stars": 1022,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1092,7 +1092,7 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-03T02:40:52Z",
+            "last_commit": "2026-11-03T15:40:50Z",
             "open_issues": 30,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
@@ -1156,11 +1156,11 @@
             "id": 41371296,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-29T21:55:46Z",
+            "last_commit": "2026-11-03T06:32:00Z",
             "open_issues": 1,
             "owner": "languitar",
             "repo": "pass-git-helper",
-            "stars": 375,
+            "stars": 376,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1455,7 +1455,7 @@
             "open_issues": 4,
             "owner": "akermu",
             "repo": "krunner-pass",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "kde",
               "krunner",
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:02:11.545Z",
+    "last_updated": "2026-11-04T01:37:49.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
