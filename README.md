@@ -82,14 +82,14 @@ Additions and improvements are welcome! Please make pull-requests.
 
 ## Interfaces
 
-* **[Pass for iOS](https://github.com/mssun/passforios) ⭐ 1,650 | 🐛 178 | 🌐 Swift | 📅 2026-09-26**: An iOS client.
-* **[passforios](https://github.com/mssun/passforios) ⭐ 1,650 | 🐛 178 | 🌐 Swift | 📅 2026-09-26**: Pass for iOS - an iOS client compatible with Pass command line application.
+* **[Pass for iOS](https://github.com/mssun/passforios) ⭐ 1,650 | 🐛 179 | 🌐 Swift | 📅 2026-09-26**: An iOS client.
+* **[passforios](https://github.com/mssun/passforios) ⭐ 1,650 | 🐛 179 | 🌐 Swift | 📅 2026-09-26**: Pass for iOS - an iOS client compatible with Pass command line application.
 * **[passff](https://github.com/passff/passff) ⭐ 1,281 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-26**: zx2c4 pass manager extension for Firefox, Chrome and Opera.
 * **[browserpass](https://github.com/browserpass/browserpass-extension) ⭐ 1,022 | 🐛 48 | 🌐 JavaScript | 📅 2026-10-17**: Chrome & Firefox browser extension for pass.
 * **[ripasso](https://github.com/cortex/ripasso) ⭐ 834 | 🐛 33 | 🌐 Rust | 📅 2026-09-14**: A simple password manager written in Rust.
-* **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store) ⭐ 480 | 🐛 30 | 🌐 Kotlin | 📅 2026-11-03**: Android application compatible with ZX2C4's Pass command line application.
+* **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store) ⭐ 481 | 🐛 32 | 🌐 Kotlin | 📅 2026-11-04**: Android application compatible with ZX2C4's Pass command line application.
 * **[pass-winmenu](https://github.com/geluk/pass-winmenu) ⭐ 424 | 🐛 14 | 🌐 C# | 📅 2026-08-18**: An easy-to-use Windows interface for pass
-* **[pass-git-helper](https://github.com/languitar/pass-git-helper) ⭐ 376 | 🐛 1 | 🌐 Python | 📅 2026-11-03**: A git credential helper interfacing with pass.
+* **[pass-git-helper](https://github.com/languitar/pass-git-helper) ⭐ 376 | 🐛 1 | 🌐 Python | 📅 2026-11-04**: A git credential helper interfacing with pass.
 * **[prs](https://github.com/timvisee/prs) ⭐ 267 | 🐛 14 | 🌐 Rust | 📅 2026-09-15**: A multi-platform pass client in Rust supporting sync, TOTP, Tombs and more.
 * **[gopass](https://github.com/cortex/gopass) ⚠️ Archived**: Simple UI for password-store. (UNMAINTANED)
 * **[pass.el](https://github.com/NicolasPetton/pass) ⭐ 199 | 🐛 8 | 🌐 Emacs Lisp | 📅 2026-02-14** A major mode for password-store.
@@ -161,4 +161,4 @@ These scripts are not extensions but they can be very useful nontheless.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
