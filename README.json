@@ -1051,7 +1051,7 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2026-10-17T14:34:06Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "browserpass",
             "repo": "browserpass-extension",
             "stars": 1022,
@@ -1075,7 +1075,7 @@
             "open_issues": 33,
             "owner": "cortex",
             "repo": "ripasso",
-            "stars": 834,
+            "stars": 836,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1092,11 +1092,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-04T23:24:02Z",
-            "open_issues": 32,
+            "last_commit": "2026-11-05T21:32:49Z",
+            "open_issues": 30,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 481,
+            "stars": 482,
             "topics": [
               "android",
               "autofill",
@@ -1181,7 +1181,7 @@
             "open_issues": 14,
             "owner": "timvisee",
             "repo": "prs",
-            "stars": 267,
+            "stars": 268,
             "topics": [
               "cli",
               "git",
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:45:31.511Z",
+    "last_updated": "2026-11-06T01:46:41.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
