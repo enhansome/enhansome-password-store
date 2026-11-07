@@ -634,7 +634,7 @@
                 "open_issues": 72,
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1496,
+                "stars": 1497,
                 "topics": [
                   "otpauth",
                   "password-store"
@@ -1092,11 +1092,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T21:32:49Z",
+            "last_commit": "2026-11-06T22:27:13Z",
             "open_issues": 30,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 482,
+            "stars": 483,
             "topics": [
               "android",
               "autofill",
@@ -1268,7 +1268,7 @@
             "id": 222878362,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-29T14:02:58Z",
+            "last_commit": "2026-11-06T21:25:26Z",
             "open_issues": 0,
             "owner": "bergercookie",
             "repo": "awesome-albert-plugins",
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:46:41.256Z",
+    "last_updated": "2026-11-07T01:09:27.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
