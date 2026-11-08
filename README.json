@@ -1075,7 +1075,7 @@
             "open_issues": 33,
             "owner": "cortex",
             "repo": "ripasso",
-            "stars": 836,
+            "stars": 837,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1096,7 +1096,7 @@
             "open_issues": 30,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 483,
+            "stars": 484,
             "topics": [
               "android",
               "autofill",
@@ -1156,7 +1156,7 @@
             "id": 41371296,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-04T23:32:29Z",
+            "last_commit": "2026-11-07T21:32:45Z",
             "open_issues": 1,
             "owner": "languitar",
             "repo": "pass-git-helper",
@@ -1408,7 +1408,7 @@
             "open_issues": 6,
             "owner": "grimsteel",
             "repo": "pass-secret-service",
-            "stars": 85,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1947,7 +1947,7 @@
             "open_issues": 2,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2511,
+            "stars": 2513,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T01:09:27.439Z",
+    "last_updated": "2026-11-08T00:52:52.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
@@ -2007,7 +2007,7 @@
       "id": 166590550,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-26T20:12:51Z",
+      "last_commit": "2026-11-07T10:28:48Z",
       "open_issues": 0,
       "owner": "tijn",
       "repo": "awesome-password-store",
@@ -2020,7 +2020,7 @@
         "zx2c4-pass"
       ]
     },
-    "original_repository_sha": "93b1327b1f43df31ba47259ba0de7634078058a7",
+    "original_repository_sha": "0bc85d0eb2b36c0addc652250653bf533d919cf3",
     "enhanced_repository": "enhansome/enhansome-password-store",
     "enhanced_repository_description": null,
     "title": "Awesome password-store with stars"
