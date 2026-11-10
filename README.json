@@ -973,7 +973,7 @@
             "open_issues": 179,
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1650,
+            "stars": 1651,
             "topics": [
               "ios-app",
               "password-manager",
@@ -1000,7 +1000,7 @@
             "open_issues": 179,
             "owner": "mssun",
             "repo": "passforios",
-            "stars": 1650,
+            "stars": 1651,
             "topics": [
               "ios-app",
               "password-manager",
@@ -1054,7 +1054,7 @@
             "open_issues": 49,
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1022,
+            "stars": 1023,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1092,11 +1092,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-06T22:27:13Z",
+            "last_commit": "2026-11-09T19:17:06Z",
             "open_issues": 30,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 485,
+            "stars": 486,
             "topics": [
               "android",
               "autofill",
@@ -1947,7 +1947,7 @@
             "open_issues": 2,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2514,
+            "stars": 2515,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:11:13.754Z",
+    "last_updated": "2026-11-10T03:46:38.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
