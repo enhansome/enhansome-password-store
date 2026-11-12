@@ -423,10 +423,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-10T12:21:34Z",
-                "open_issues": 22,
+                "open_issues": 21,
                 "owner": "roddhjav",
                 "repo": "pass-import",
-                "stars": 915,
+                "stars": 916,
                 "topics": [
                   "import",
                   "importer",
@@ -634,7 +634,7 @@
                 "open_issues": 72,
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1497,
+                "stars": 1499,
                 "topics": [
                   "otpauth",
                   "password-store"
@@ -1092,8 +1092,8 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T23:00:51Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-12T02:24:33Z",
+            "open_issues": 30,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 486,
@@ -1157,7 +1157,7 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-11-07T21:32:45Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "languitar",
             "repo": "pass-git-helper",
             "stars": 376,
@@ -1268,7 +1268,7 @@
             "id": 222878362,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-08T20:19:38Z",
+            "last_commit": "2026-11-11T10:56:55Z",
             "open_issues": 0,
             "owner": "bergercookie",
             "repo": "awesome-albert-plugins",
@@ -1533,7 +1533,7 @@
             "open_issues": 3,
             "owner": "rafi",
             "repo": "tmux-pass",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "bash",
               "fzf",
@@ -1559,7 +1559,7 @@
             "open_issues": 2,
             "owner": "Seme4eg",
             "repo": "rofi-pass-wayland",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T01:27:41.066Z",
+    "last_updated": "2026-11-12T02:29:13.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",

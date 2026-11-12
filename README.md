@@ -49,7 +49,7 @@ Additions and improvements are welcome! Please make pull-requests.
 
 ### Import
 
-* **[pass-import](https://github.com/roddhjav/pass-import) ⭐ 915 | 🐛 22 | 🌐 Python | 📅 2026-11-10**: a generic importer tool from other password managers.
+* **[pass-import](https://github.com/roddhjav/pass-import) ⭐ 916 | 🐛 21 | 🌐 Python | 📅 2026-11-10**: a generic importer tool from other password managers.
 * **[pass-file](https://github.com/lukrop/pass-file) ⭐ 20 | 🐛 3 | 🌐 Shell | 📅 2024-09-06** (by [lukrop](https://github.com/lukrop)): A pass extension for adding arbitrary files to the password store.
 * **[pass-file](https://github.com/dvogt23/pass-file) ⭐ 18 | 🐛 3 | 🌐 Shell | 📅 2024-03-28** (by [dvogt23](https://github.com/dvogt23)): A pass extension that allows to add files to password-store.
 * **[pass-import-1pux](https://tangled.org/@hello.j23n.com/pass-import-1pux)**: a tool to import 1password .1pux files.
@@ -65,7 +65,7 @@ Additions and improvements are welcome! Please make pull-requests.
 
 ### All other extensions
 
-* **[pass-otp](https://github.com/tadfisher/pass-otp) ⭐ 1,497 | 🐛 72 | 🌐 Shell | 📅 2025-08-09**: support for one-time-password (OTP) tokens.
+* **[pass-otp](https://github.com/tadfisher/pass-otp) ⭐ 1,499 | 🐛 72 | 🌐 Shell | 📅 2025-08-09**: support for one-time-password (OTP) tokens.
 * **[pass-tomb](https://github.com/roddhjav/pass-tomb) ⭐ 437 | 🐛 7 | 🌐 Shell | 📅 2026-04-07**: helps you to keep the whole tree of password encrypted inside a tomb.
 * **[pass-update](https://github.com/roddhjav/pass-update) ⭐ 327 | 🐛 7 | 🌐 Shell | 📅 2025-08-16**: an easy flow for updating passwords.
 * **[pass-keybase](https://github.com/mbauhardt/pass-keybase) ⭐ 47 | 🐛 1 | 🌐 Shell | 📅 2020-05-15**: A pass extension to re-encrypt and decrypt pass entries via keybase.
@@ -87,14 +87,14 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[passff](https://github.com/passff/passff) ⭐ 1,282 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-26**: zx2c4 pass manager extension for Firefox, Chrome and Opera.
 * **[browserpass](https://github.com/browserpass/browserpass-extension) ⭐ 1,023 | 🐛 49 | 🌐 JavaScript | 📅 2026-10-17**: Chrome & Firefox browser extension for pass.
 * **[ripasso](https://github.com/cortex/ripasso) ⭐ 838 | 🐛 33 | 🌐 Rust | 📅 2026-09-14**: A simple password manager written in Rust.
-* **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store) ⭐ 486 | 🐛 31 | 🌐 Kotlin | 📅 2026-11-10**: Android application compatible with ZX2C4's Pass command line application.
+* **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store) ⭐ 486 | 🐛 30 | 🌐 Kotlin | 📅 2026-11-12**: Android application compatible with ZX2C4's Pass command line application.
 * **[pass-winmenu](https://github.com/geluk/pass-winmenu) ⭐ 426 | 🐛 15 | 🌐 C# | 📅 2026-08-18**: An easy-to-use Windows interface for pass
-* **[pass-git-helper](https://github.com/languitar/pass-git-helper) ⭐ 376 | 🐛 2 | 🌐 Python | 📅 2026-11-07**: A git credential helper interfacing with pass.
+* **[pass-git-helper](https://github.com/languitar/pass-git-helper) ⭐ 376 | 🐛 1 | 🌐 Python | 📅 2026-11-07**: A git credential helper interfacing with pass.
 * **[prs](https://github.com/timvisee/prs) ⭐ 268 | 🐛 8 | 🌐 Rust | 📅 2026-11-10**: A multi-platform pass client in Rust supporting sync, TOTP, Tombs and more.
 * **[gopass](https://github.com/cortex/gopass) ⚠️ Archived**: Simple UI for password-store. (UNMAINTANED)
 * **[pass.el](https://github.com/NicolasPetton/pass) ⭐ 200 | 🐛 8 | 🌐 Emacs Lisp | 📅 2026-02-14** A major mode for password-store.
 * **[Pass4Win](https://github.com/mbos/Pass4Win) ⚠️ Archived**: An interface for Windows. (inactive)
-* **[pass\_rlded](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/pass_rlded) ⭐ 166 | 🐛 0 | 🌐 Python | 📅 2026-11-08**: [Albert](https://github.com/albertlauncher/albert) ⭐ 8,010 | 🐛 7 | 🌐 C++ | 📅 2026-11-03 integration
+* **[pass\_rlded](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/pass_rlded) ⭐ 166 | 🐛 0 | 🌐 Python | 📅 2026-11-11**: [Albert](https://github.com/albertlauncher/albert) ⭐ 8,009 | 🐛 7 | 🌐 C++ | 📅 2026-11-03 integration
 * **[upass](https://github.com/Kwpolska/upass) ⚠️ Archived**: Console UI for pass.
 * **[Pass for macOS](https://github.com/adur1990/Pass-for-macOS) ⭐ 121 | 🐛 6 | 🌐 Swift | 📅 2021-10-26** macOS wrapper and Safari extension.
 * **[gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider) ⭐ 97 | 🐛 1 | 🌐 Python | 📅 2026-04-19**: Pass password manager search provider for gnome-shell.
@@ -104,8 +104,8 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[krunner-pass](https://github.com/akermu/krunner-pass) ⭐ 39 | 🐛 4 | 🌐 C++ | 📅 2024-04-24**: Integrates krunner (KDE) with pass.
 * **[PassHUD](https://github.com/mnussbaum/PassHUD) ⭐ 36 | 🐛 2 | 🌐 Swift | 📅 2019-02-23**: A HUD-style interface for pass on macOS.
 * **[passwordstore-menu.el](https://github.com/rjekker/password-store-menu) ⭐ 28 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-04-23**: Emacs password-store with friendly user interface.
-* **[tmux-pass](https://github.com/rafi/tmux-pass) ⭐ 23 | 🐛 3 | 🌐 Shell | 📅 2025-05-21**: Quick password-store browser with preview using fzf in tmux.
-* **[rofi-pass-wayland](https://github.com/Seme4eg/rofi-pass-wayland) ⭐ 20 | 🐛 2 | 🌐 Shell | 📅 2026-01-12**: Rofi frontent for ZX2C4 pass project (wayland only).
+* **[tmux-pass](https://github.com/rafi/tmux-pass) ⭐ 24 | 🐛 3 | 🌐 Shell | 📅 2025-05-21**: Quick password-store browser with preview using fzf in tmux.
+* **[rofi-pass-wayland](https://github.com/Seme4eg/rofi-pass-wayland) ⭐ 21 | 🐛 2 | 🌐 Shell | 📅 2026-01-12**: Rofi frontent for ZX2C4 pass project (wayland only).
 * **[gopass-tui](https://github.com/leitzler/gopass-tui) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2018-01-05**: Terminal UI for pass/gopass.
 * **[alfred-pass](https://github.com/chrisgrieser/alfred-pass) ⭐ 17 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-01**: Feature-rich Alfred integration.
 * **[Identities](https://github.com/k8ieone/identities) ⭐ 17 | 🐛 23 | 🌐 Python | 📅 2026-07-15**: Modern password-store client made for GNOME.
@@ -162,4 +162,4 @@ These scripts are not extensions but they can be very useful nontheless.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
