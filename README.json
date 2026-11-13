@@ -248,7 +248,7 @@
                 "id": 1123376949,
                 "language": "Shell",
                 "license": null,
-                "last_commit": "2025-12-28T03:22:19Z",
+                "last_commit": "2026-11-12T07:16:45Z",
                 "open_issues": 0,
                 "owner": "Konfekt",
                 "repo": "select-pass-otp",
@@ -658,7 +658,7 @@
                 "open_issues": 7,
                 "owner": "roddhjav",
                 "repo": "pass-tomb",
-                "stars": 437,
+                "stars": 436,
                 "topics": [
                   "pass",
                   "pass-extension",
@@ -687,7 +687,7 @@
                 "open_issues": 7,
                 "owner": "roddhjav",
                 "repo": "pass-update",
-                "stars": 327,
+                "stars": 326,
                 "topics": [
                   "pass",
                   "pass-extension",
@@ -1092,7 +1092,7 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T02:24:33Z",
+            "last_commit": "2026-11-12T20:49:49Z",
             "open_issues": 30,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
@@ -1128,7 +1128,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-08-18T11:15:50Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "geluk",
             "repo": "pass-winmenu",
             "stars": 426,
@@ -1156,7 +1156,7 @@
             "id": 41371296,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-07T21:32:45Z",
+            "last_commit": "2026-11-12T21:43:59Z",
             "open_issues": 1,
             "owner": "languitar",
             "repo": "pass-git-helper",
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T02:29:13.384Z",
+    "last_updated": "2026-11-13T02:05:37.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",

@@ -34,7 +34,7 @@ Additions and improvements are welcome! Please make pull-requests.
 
 * **[pass-clip](https://github.com/ibizaman/pass-clip) ⭐ 38 | 🐛 0 | 🌐 Shell | 📅 2024-12-04**: A pass extension that lets you quickly copy to clipboard passwords using fzf or rofi.
 * **[pass-extension-wclip](https://github.com/palortoff/pass-extension-wclip) ⭐ 22 | 🐛 1 | 🌐 Shell | 📅 2020-11-23**: a plugin to use wclip on Windows.
-* **[select-pass-otp](https://github.com/Konfekt/select-pass-otp) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2025-12-28**: type or copy passwords or OTPs from a menu selector in X11 or Wayland
+* **[select-pass-otp](https://github.com/Konfekt/select-pass-otp) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-11-12**: type or copy passwords or OTPs from a menu selector in X11 or Wayland
 * **[pass-sclip](https://github.com/Boldewyn/pass-sclip) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2017-05-31**: A pass extension to copy to [screen](https://www.gnu.org/software/screen/)'s paste buffer.
 * **[pass-extension-pclip](https://gitlab.com/lbischof/pass-extension-pclip)**: Copies meta data into primary clipboard.
 * **[pass-tessen](https://git.sr.ht/~ayushnix/pass-tessen)**: fuzzy data selection and copy-paste from password store
@@ -66,8 +66,8 @@ Additions and improvements are welcome! Please make pull-requests.
 ### All other extensions
 
 * **[pass-otp](https://github.com/tadfisher/pass-otp) ⭐ 1,499 | 🐛 72 | 🌐 Shell | 📅 2025-08-09**: support for one-time-password (OTP) tokens.
-* **[pass-tomb](https://github.com/roddhjav/pass-tomb) ⭐ 437 | 🐛 7 | 🌐 Shell | 📅 2026-04-07**: helps you to keep the whole tree of password encrypted inside a tomb.
-* **[pass-update](https://github.com/roddhjav/pass-update) ⭐ 327 | 🐛 7 | 🌐 Shell | 📅 2025-08-16**: an easy flow for updating passwords.
+* **[pass-tomb](https://github.com/roddhjav/pass-tomb) ⭐ 436 | 🐛 7 | 🌐 Shell | 📅 2026-04-07**: helps you to keep the whole tree of password encrypted inside a tomb.
+* **[pass-update](https://github.com/roddhjav/pass-update) ⭐ 326 | 🐛 7 | 🌐 Shell | 📅 2025-08-16**: an easy flow for updating passwords.
 * **[pass-keybase](https://github.com/mbauhardt/pass-keybase) ⭐ 47 | 🐛 1 | 🌐 Shell | 📅 2020-05-15**: A pass extension to re-encrypt and decrypt pass entries via keybase.
 * **[pass-backup](https://github.com/8go/pass-backup) ⭐ 17 | 🐛 2 | 🌐 Shell | 📅 2021-10-12**: makes making a time-stamped backup simple and easy.
 * **[pass-grave](https://github.com/8go/pass-grave) ⭐ 16 | 🐛 0 | 🌐 Shell | 📅 2021-09-11**: helps you hide all meta-data by placing the whole tree of passwords inside an encrypted grave (like pass-tomb but simpler and more lightweight).
@@ -88,13 +88,13 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[browserpass](https://github.com/browserpass/browserpass-extension) ⭐ 1,023 | 🐛 49 | 🌐 JavaScript | 📅 2026-10-17**: Chrome & Firefox browser extension for pass.
 * **[ripasso](https://github.com/cortex/ripasso) ⭐ 838 | 🐛 33 | 🌐 Rust | 📅 2026-09-14**: A simple password manager written in Rust.
 * **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store) ⭐ 486 | 🐛 30 | 🌐 Kotlin | 📅 2026-11-12**: Android application compatible with ZX2C4's Pass command line application.
-* **[pass-winmenu](https://github.com/geluk/pass-winmenu) ⭐ 426 | 🐛 15 | 🌐 C# | 📅 2026-08-18**: An easy-to-use Windows interface for pass
-* **[pass-git-helper](https://github.com/languitar/pass-git-helper) ⭐ 376 | 🐛 1 | 🌐 Python | 📅 2026-11-07**: A git credential helper interfacing with pass.
+* **[pass-winmenu](https://github.com/geluk/pass-winmenu) ⭐ 426 | 🐛 14 | 🌐 C# | 📅 2026-08-18**: An easy-to-use Windows interface for pass
+* **[pass-git-helper](https://github.com/languitar/pass-git-helper) ⭐ 376 | 🐛 1 | 🌐 Python | 📅 2026-11-12**: A git credential helper interfacing with pass.
 * **[prs](https://github.com/timvisee/prs) ⭐ 268 | 🐛 8 | 🌐 Rust | 📅 2026-11-10**: A multi-platform pass client in Rust supporting sync, TOTP, Tombs and more.
 * **[gopass](https://github.com/cortex/gopass) ⚠️ Archived**: Simple UI for password-store. (UNMAINTANED)
 * **[pass.el](https://github.com/NicolasPetton/pass) ⭐ 200 | 🐛 8 | 🌐 Emacs Lisp | 📅 2026-02-14** A major mode for password-store.
 * **[Pass4Win](https://github.com/mbos/Pass4Win) ⚠️ Archived**: An interface for Windows. (inactive)
-* **[pass\_rlded](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/pass_rlded) ⭐ 166 | 🐛 0 | 🌐 Python | 📅 2026-11-11**: [Albert](https://github.com/albertlauncher/albert) ⭐ 8,009 | 🐛 7 | 🌐 C++ | 📅 2026-11-03 integration
+* **[pass\_rlded](https://github.com/bergercookie/awesome-albert-plugins/tree/master/plugins/pass_rlded) ⭐ 166 | 🐛 0 | 🌐 Python | 📅 2026-11-11**: [Albert](https://github.com/albertlauncher/albert) ⭐ 8,008 | 🐛 7 | 🌐 C++ | 📅 2026-11-03 integration
 * **[upass](https://github.com/Kwpolska/upass) ⚠️ Archived**: Console UI for pass.
 * **[Pass for macOS](https://github.com/adur1990/Pass-for-macOS) ⭐ 121 | 🐛 6 | 🌐 Swift | 📅 2021-10-26** macOS wrapper and Safari extension.
 * **[gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider) ⭐ 97 | 🐛 1 | 🌐 Python | 📅 2026-04-19**: Pass password manager search provider for gnome-shell.
@@ -162,4 +162,4 @@ These scripts are not extensions but they can be very useful nontheless.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
