@@ -422,8 +422,8 @@
                 "id": 78456127,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T12:21:34Z",
-                "open_issues": 21,
+                "last_commit": "2026-11-13T13:47:30Z",
+                "open_issues": 20,
                 "owner": "roddhjav",
                 "repo": "pass-import",
                 "stars": 916,
@@ -795,7 +795,7 @@
                 "id": 464335905,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2025-11-22T02:16:50Z",
+                "last_commit": "2026-11-13T23:54:42Z",
                 "open_issues": 2,
                 "owner": "radian-software",
                 "repo": "pass-ln",
@@ -1054,7 +1054,7 @@
             "open_issues": 49,
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1023,
+            "stars": 1024,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1092,8 +1092,8 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T20:49:49Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-13T22:44:35Z",
+            "open_issues": 31,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 486,
@@ -1268,7 +1268,7 @@
             "id": 222878362,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T10:56:55Z",
+            "last_commit": "2026-11-13T13:28:06Z",
             "open_issues": 0,
             "owner": "bergercookie",
             "repo": "awesome-albert-plugins",
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T02:05:37.523Z",
+    "last_updated": "2026-11-14T01:43:20.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
