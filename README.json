@@ -1092,11 +1092,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T22:44:35Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-14T15:32:41Z",
+            "open_issues": 30,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 486,
+            "stars": 487,
             "topics": [
               "android",
               "autofill",
@@ -1408,7 +1408,7 @@
             "open_issues": 6,
             "owner": "grimsteel",
             "repo": "pass-secret-service",
-            "stars": 86,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1999,7 +1999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:43:20.171Z",
+    "last_updated": "2026-11-15T01:16:47.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
@@ -2011,7 +2011,7 @@
       "open_issues": 0,
       "owner": "tijn",
       "repo": "awesome-password-store",
-      "stars": 313,
+      "stars": 314,
       "topics": [
         "awesome",
         "awesome-list",
