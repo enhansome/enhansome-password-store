@@ -82,12 +82,12 @@ Additions and improvements are welcome! Please make pull-requests.
 
 ## Interfaces
 
-* **[Pass for iOS](https://github.com/mssun/passforios) ⭐ 1,649 | 🐛 179 | 🌐 Swift | 📅 2026-09-26**: An iOS client.
-* **[passforios](https://github.com/mssun/passforios) ⭐ 1,649 | 🐛 179 | 🌐 Swift | 📅 2026-09-26**: Pass for iOS - an iOS client compatible with Pass command line application.
+* **[Pass for iOS](https://github.com/mssun/passforios) ⭐ 1,649 | 🐛 177 | 🌐 Swift | 📅 2026-09-26**: An iOS client.
+* **[passforios](https://github.com/mssun/passforios) ⭐ 1,649 | 🐛 177 | 🌐 Swift | 📅 2026-09-26**: Pass for iOS - an iOS client compatible with Pass command line application.
 * **[passff](https://github.com/passff/passff) ⭐ 1,282 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-26**: zx2c4 pass manager extension for Firefox, Chrome and Opera.
 * **[browserpass](https://github.com/browserpass/browserpass-extension) ⭐ 1,023 | 🐛 49 | 🌐 JavaScript | 📅 2026-10-17**: Chrome & Firefox browser extension for pass.
 * **[ripasso](https://github.com/cortex/ripasso) ⭐ 838 | 🐛 33 | 🌐 Rust | 📅 2026-09-14**: A simple password manager written in Rust.
-* **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store) ⭐ 489 | 🐛 31 | 🌐 Kotlin | 📅 2026-11-16**: Android application compatible with ZX2C4's Pass command line application.
+* **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store) ⭐ 490 | 🐛 31 | 🌐 Kotlin | 📅 2026-11-17**: Android application compatible with ZX2C4's Pass command line application.
 * **[pass-winmenu](https://github.com/geluk/pass-winmenu) ⭐ 426 | 🐛 14 | 🌐 C# | 📅 2026-08-18**: An easy-to-use Windows interface for pass
 * **[pass-git-helper](https://github.com/languitar/pass-git-helper) ⭐ 376 | 🐛 1 | 🌐 Python | 📅 2026-11-12**: A git credential helper interfacing with pass.
 * **[prs](https://github.com/timvisee/prs) ⭐ 268 | 🐛 8 | 🌐 Rust | 📅 2026-11-10**: A multi-platform pass client in Rust supporting sync, TOTP, Tombs and more.
@@ -110,7 +110,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[alfred-pass](https://github.com/chrisgrieser/alfred-pass) ⭐ 17 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-01**: Feature-rich Alfred integration.
 * **[Identities](https://github.com/k8ieone/identities) ⭐ 17 | 🐛 23 | 🌐 Python | 📅 2026-07-15**: Modern password-store client made for GNOME.
 * **[gopass-secret-service](https://github.com/nikicat/gopass-secret-service) ⭐ 16 | 🐛 0 | 🌐 Go | 📅 2026-11-10**: D-Bus [Secret Service](https://specifications.freedesktop.org/secret-service/latest/) provider backed by gopass, so desktop apps (browsers, Electron apps, NetworkManager) store their secrets in the password store.
-* **[pass-ulauncher](https://github.com/yannishuber/pass-ulauncher) ⭐ 15 | 🐛 7 | 🌐 Python | 📅 2019-11-12**: Integration for [Ulauncher](https://ulauncher.io/).
+* **[pass-ulauncher](https://github.com/yannishuber/pass-ulauncher) ⭐ 14 | 🐛 7 | 🌐 Python | 📅 2019-11-12**: Integration for [Ulauncher](https://ulauncher.io/).
 * **[pass-zsh-completion](https://github.com/ninrod/pass-zsh-completion) ⭐ 10 | 🐛 2 | 🌐 Shell | 📅 2022-01-16**: pass zsh completion plugin.
 * **[parcel](https://github.com/parcel-pm/parcel) ⭐ 9 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-24**: [Chrome](https://chromewebstore.google.com/detail/parcel/ciifpadakeohfnnneflckhojbldkkllp) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/parcel-pm/) browser extension with no external dependencies.
 * **[pext\_module\_pass](https://github.com/Pext/pext_module_pass) ⚠️ Archived**: Password management module for Pext.
@@ -119,7 +119,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[vim-password-store](https://github.com/fourjay/vim-password-store) ⭐ 5 | 🐛 1 | 🌐 Vim script | 📅 2019-04-07**: Vim niceties for password store.
 * **[pidgin-zx2c4-pass](https://github.com/denimor/pidgin-zx2c4-pass) ⭐ 3 | 🐛 0 | 🌐 C | 📅 2017-03-29**: Plugin that allows to use zx2c4 pass to store passwords (for [pidgin](https://pidgin.im/)).
 * **[ob-pass-menu](https://github.com/denimor/ob-pass-menu) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2017-08-16**: [Openbox](http://openbox.org/wiki/Main_Page) pipe-menu script that generates an xml menu based on zx2c4-pass storage.
-* **[instantpass](https://github.com/instantos/instantpass) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2025-05-26**: an [instantmenu](https://github.com/instantOS/instantMENU) ⭐ 43 | 🐛 3 | 🌐 Rust | 📅 2026-11-16 frontend with support for pass-opt and pass-file.
+* **[instantpass](https://github.com/instantos/instantpass) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2025-05-26**: an [instantmenu](https://github.com/instantOS/instantMENU) ⭐ 45 | 🐛 3 | 🌐 Rust | 📅 2026-11-17 frontend with support for pass-opt and pass-file.
 * **[awscli-plugin-passtotp](https://github.com/someone-stole-my-name/awscli-plugin-passtotp)**: AWS CLI plugin to directly talk to pass for OATH-TOTP keys.
 * **[HardenedPass](https://danix.xyz/hardenedpass/)**: A Play-Services-free fork of Android Password Store, a pass client for Android
 * **[pass-awscli](https://gitlab.com/mjsir911/pass-awscli)**:  AWS CLI credential integration
@@ -162,4 +162,4 @@ These scripts are not extensions but they can be very useful nontheless.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
