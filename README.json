@@ -426,7 +426,7 @@
                 "open_issues": 21,
                 "owner": "roddhjav",
                 "repo": "pass-import",
-                "stars": 916,
+                "stars": 917,
                 "topics": [
                   "import",
                   "importer",
@@ -634,7 +634,7 @@
                 "open_issues": 73,
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1499,
+                "stars": 1500,
                 "topics": [
                   "otpauth",
                   "password-store"
@@ -1023,7 +1023,7 @@
             "id": 13519594,
             "language": "JavaScript",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-26T21:13:03Z",
+            "last_commit": "2026-11-18T19:47:12Z",
             "open_issues": 14,
             "owner": "passff",
             "repo": "passff",
@@ -1092,11 +1092,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T22:25:10Z",
+            "last_commit": "2026-11-18T23:07:02Z",
             "open_issues": 31,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 490,
+            "stars": 491,
             "topics": [
               "android",
               "autofill",
@@ -1110,7 +1110,9 @@
               "passkeys",
               "password",
               "password-manager",
-              "password-store"
+              "password-store",
+              "totp",
+              "totp-authenticator"
             ]
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1268,7 +1270,7 @@
             "id": 222878362,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T13:28:06Z",
+            "last_commit": "2026-11-18T21:04:18Z",
             "open_issues": 0,
             "owner": "bergercookie",
             "repo": "awesome-albert-plugins",
@@ -1947,7 +1949,7 @@
             "open_issues": 2,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2515,
+            "stars": 2516,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -1999,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:06:30.531Z",
+    "last_updated": "2026-11-19T02:46:13.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
