@@ -634,7 +634,7 @@
                 "open_issues": 73,
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1500,
+                "stars": 1499,
                 "topics": [
                   "otpauth",
                   "password-store"
@@ -1027,7 +1027,7 @@
             "open_issues": 14,
             "owner": "passff",
             "repo": "passff",
-            "stars": 1282,
+            "stars": 1281,
             "topics": [
               "firefox-extension",
               "javascript",
@@ -1054,7 +1054,7 @@
             "open_issues": 49,
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1023,
+            "stars": 1022,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1075,7 +1075,7 @@
             "open_issues": 33,
             "owner": "cortex",
             "repo": "ripasso",
-            "stars": 838,
+            "stars": 837,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1092,8 +1092,8 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T23:07:02Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-19T19:54:57Z",
+            "open_issues": 32,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
             "stars": 491,
@@ -1133,7 +1133,7 @@
             "open_issues": 14,
             "owner": "geluk",
             "repo": "pass-winmenu",
-            "stars": 426,
+            "stars": 425,
             "topics": [
               "cryptography",
               "csharp",
@@ -1158,7 +1158,7 @@
             "id": 41371296,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-12T21:43:59Z",
+            "last_commit": "2026-11-19T19:59:06Z",
             "open_issues": 1,
             "owner": "languitar",
             "repo": "pass-git-helper",
@@ -1949,7 +1949,7 @@
             "open_issues": 2,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2516,
+            "stars": 2514,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:46:13.929Z",
+    "last_updated": "2026-11-20T02:33:29.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
