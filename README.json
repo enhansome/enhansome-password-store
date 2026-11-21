@@ -1092,11 +1092,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-19T19:54:57Z",
+            "last_commit": "2026-11-20T20:51:24Z",
             "open_issues": 32,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 491,
+            "stars": 493,
             "topics": [
               "android",
               "autofill",
@@ -1270,7 +1270,7 @@
             "id": 222878362,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T21:04:18Z",
+            "last_commit": "2026-11-20T21:38:32Z",
             "open_issues": 0,
             "owner": "bergercookie",
             "repo": "awesome-albert-plugins",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T02:33:29.569Z",
+    "last_updated": "2026-11-21T02:47:31.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
