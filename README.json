@@ -1092,7 +1092,7 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T20:51:24Z",
+            "last_commit": "2026-11-21T09:58:06Z",
             "open_issues": 32,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
@@ -1326,7 +1326,7 @@
             "open_issues": 6,
             "owner": "adur1990",
             "repo": "Pass-for-macOS",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "autofill-passwords",
               "browser-extension",
@@ -1410,7 +1410,7 @@
             "open_issues": 6,
             "owner": "grimsteel",
             "repo": "pass-secret-service",
-            "stars": 86,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1949,7 +1949,7 @@
             "open_issues": 2,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2514,
+            "stars": 2518,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T02:47:31.616Z",
+    "last_updated": "2026-11-22T01:32:01.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
