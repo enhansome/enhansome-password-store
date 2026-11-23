@@ -49,7 +49,7 @@ Additions and improvements are welcome! Please make pull-requests.
 
 ### Import
 
-* **[pass-import](https://github.com/roddhjav/pass-import) ⭐ 917 | 🐛 21 | 🌐 Python | 📅 2026-11-13**: a generic importer tool from other password managers.
+* **[pass-import](https://github.com/roddhjav/pass-import) ⭐ 917 | 🐛 14 | 🌐 Python | 📅 2026-11-22**: a generic importer tool from other password managers.
 * **[pass-file](https://github.com/lukrop/pass-file) ⭐ 20 | 🐛 3 | 🌐 Shell | 📅 2024-09-06** (by [lukrop](https://github.com/lukrop)): A pass extension for adding arbitrary files to the password store.
 * **[pass-file](https://github.com/dvogt23/pass-file) ⭐ 18 | 🐛 3 | 🌐 Shell | 📅 2024-03-28** (by [dvogt23](https://github.com/dvogt23)): A pass extension that allows to add files to password-store.
 * **[pass-import-1pux](https://tangled.org/@hello.j23n.com/pass-import-1pux)**: a tool to import 1password .1pux files.
@@ -82,9 +82,9 @@ Additions and improvements are welcome! Please make pull-requests.
 
 ## Interfaces
 
-* **[Pass for iOS](https://github.com/mssun/passforios) ⭐ 1,649 | 🐛 177 | 🌐 Swift | 📅 2026-09-26**: An iOS client.
-* **[passforios](https://github.com/mssun/passforios) ⭐ 1,649 | 🐛 177 | 🌐 Swift | 📅 2026-09-26**: Pass for iOS - an iOS client compatible with Pass command line application.
-* **[passff](https://github.com/passff/passff) ⭐ 1,281 | 🐛 14 | 🌐 JavaScript | 📅 2026-11-18**: zx2c4 pass manager extension for Firefox, Chrome and Opera.
+* **[Pass for iOS](https://github.com/mssun/passforios) ⭐ 1,649 | 🐛 178 | 🌐 Swift | 📅 2026-09-26**: An iOS client.
+* **[passforios](https://github.com/mssun/passforios) ⭐ 1,649 | 🐛 178 | 🌐 Swift | 📅 2026-09-26**: Pass for iOS - an iOS client compatible with Pass command line application.
+* **[passff](https://github.com/passff/passff) ⭐ 1,281 | 🐛 14 | 🌐 JavaScript | 📅 2026-11-22**: zx2c4 pass manager extension for Firefox, Chrome and Opera.
 * **[browserpass](https://github.com/browserpass/browserpass-extension) ⭐ 1,022 | 🐛 49 | 🌐 JavaScript | 📅 2026-10-17**: Chrome & Firefox browser extension for pass.
 * **[ripasso](https://github.com/cortex/ripasso) ⭐ 837 | 🐛 33 | 🌐 Rust | 📅 2026-09-14**: A simple password manager written in Rust.
 * **[Android-Password-Store](https://github.com/agrahn/Android-Password-Store) ⭐ 493 | 🐛 32 | 🌐 Kotlin | 📅 2026-11-21**: Android application compatible with ZX2C4's Pass command line application.
@@ -119,7 +119,7 @@ Additions and improvements are welcome! Please make pull-requests.
 * **[vim-password-store](https://github.com/fourjay/vim-password-store) ⭐ 5 | 🐛 1 | 🌐 Vim script | 📅 2019-04-07**: Vim niceties for password store.
 * **[pidgin-zx2c4-pass](https://github.com/denimor/pidgin-zx2c4-pass) ⭐ 3 | 🐛 0 | 🌐 C | 📅 2017-03-29**: Plugin that allows to use zx2c4 pass to store passwords (for [pidgin](https://pidgin.im/)).
 * **[ob-pass-menu](https://github.com/denimor/ob-pass-menu) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2017-08-16**: [Openbox](http://openbox.org/wiki/Main_Page) pipe-menu script that generates an xml menu based on zx2c4-pass storage.
-* **[instantpass](https://github.com/instantos/instantpass) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2025-05-26**: an [instantmenu](https://github.com/instantOS/instantMENU) ⭐ 51 | 🐛 3 | 🌐 Rust | 📅 2026-11-17 frontend with support for pass-opt and pass-file.
+* **[instantpass](https://github.com/instantos/instantpass) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2025-05-26**: an [instantmenu](https://github.com/instantOS/instantMENU) ⭐ 56 | 🐛 3 | 🌐 Rust | 📅 2026-11-17 frontend with support for pass-opt and pass-file.
 * **[awscli-plugin-passtotp](https://github.com/someone-stole-my-name/awscli-plugin-passtotp)**: AWS CLI plugin to directly talk to pass for OATH-TOTP keys.
 * **[HardenedPass](https://danix.xyz/hardenedpass/)**: A Play-Services-free fork of Android Password Store, a pass client for Android
 * **[pass-awscli](https://gitlab.com/mjsir911/pass-awscli)**:  AWS CLI credential integration
@@ -162,4 +162,4 @@ These scripts are not extensions but they can be very useful nontheless.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
