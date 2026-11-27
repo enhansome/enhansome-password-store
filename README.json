@@ -19,7 +19,7 @@
                 "license": "GPL-3.0",
                 "last_commit": "2025-05-14T15:35:49Z",
                 "open_issues": 8,
-                "owner": "roddhjav",
+                "owner": "pass-extension",
                 "repo": "pass-audit",
                 "stars": 104,
                 "topics": [
@@ -424,7 +424,7 @@
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-23T19:33:48Z",
                 "open_issues": 14,
-                "owner": "roddhjav",
+                "owner": "pass-extension",
                 "repo": "pass-import",
                 "stars": 917,
                 "topics": [
@@ -630,11 +630,11 @@
                 "id": 82002997,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-26T00:57:20Z",
-                "open_issues": 51,
+                "last_commit": "2026-11-26T17:24:51Z",
+                "open_issues": 48,
                 "owner": "pass-extension",
                 "repo": "pass-otp",
-                "stars": 1499,
+                "stars": 1500,
                 "topics": [
                   "otpauth",
                   "password-store"
@@ -656,7 +656,7 @@
                 "license": "GPL-3.0",
                 "last_commit": "2026-04-07T07:57:19Z",
                 "open_issues": 7,
-                "owner": "roddhjav",
+                "owner": "pass-extension",
                 "repo": "pass-tomb",
                 "stars": 436,
                 "topics": [
@@ -685,7 +685,7 @@
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-25T00:04:05Z",
                 "open_issues": 7,
-                "owner": "roddhjav",
+                "owner": "pass-extension",
                 "repo": "pass-update",
                 "stars": 326,
                 "topics": [
@@ -1054,7 +1054,7 @@
             "open_issues": 49,
             "owner": "browserpass",
             "repo": "browserpass-extension",
-            "stars": 1022,
+            "stars": 1023,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:01.093Z"
@@ -1092,11 +1092,11 @@
             "id": 808556173,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-25T21:10:04Z",
+            "last_commit": "2026-11-26T04:26:43Z",
             "open_issues": 33,
             "owner": "agrahn",
             "repo": "Android-Password-Store",
-            "stars": 497,
+            "stars": 498,
             "topics": [
               "android",
               "autofill",
@@ -1158,7 +1158,7 @@
             "id": 41371296,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-23T21:47:40Z",
+            "last_commit": "2026-11-26T16:42:17Z",
             "open_issues": 1,
             "owner": "languitar",
             "repo": "pass-git-helper",
@@ -1949,7 +1949,7 @@
             "open_issues": 2,
             "owner": "unode",
             "repo": "firefox_decrypt",
-            "stars": 2519,
+            "stars": 2521,
             "topics": [
               "command-line-tool",
               "extract-passwords",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:44:55.563Z",
+    "last_updated": "2026-11-27T03:45:33.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome pass extensions and interfaces (for zx2c4's pass)",
